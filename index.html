@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Alles wird teurer - oder doch nicht?</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      font-size: 20px;
+      font-family: 'Fredoka', sans-serif;
+      text-rendering: optimizeLegibility;
+      margin: 0;
+    }
+
+    .content {
+      max-width: 640px;
+      margin: auto;
+    }
+
+    .header {
+      padding: 3em 0;
+      padding-bottom: 1em;
+    }
+
+    .step {
+      margin-bottom: 70vh;
+    }
+
+    .step > div {
+      background-color: rgba(255, 255, 255, 0.85);
+      padding: 1.2em;
+      border-radius: 0.75em;
+      margin: 0 auto;
+      max-width: 700px;
+      text-align: center;
+    }
+
+    .scroll-chart-box {
+      background-color: rgba(255, 255, 255, 0.85);
+      padding: 1.2em;
+      border-radius: 0.75em;
+      margin: 0 auto;
+      max-width: 700px;
+      text-align: center;
+    }
+
+    figure {
+      margin: 0;
+      padding-bottom: 1.2em;
+    }
+
+    iframe,
+    img,
+    video {
+      max-width: 100%;
+    }
+
+    p {
+      line-height: 1.6;
+      margin: 0;
+      padding-bottom: 1.2em;
+    }
+
+    .sticky-thing {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      width: 100%;
+      overflow: hidden;
+      z-index: 0;
+    }
+
+    .background-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .steps-container {
+      position: relative;
+      z-index: 2;
+      max-width: 700px;
+      margin: 0 auto;
+      padding-bottom: 5em;
+    }
+
+    .scrolly-container {
+      position: relative;
+      margin: 0;
+      padding: 0;
+    }
+
+    .footer {
+      background: #f4f4f4;
+      text-align: center;
+      font-size: 0.8em;
+      margin-top: 4em;
+      padding: 4em 0;
+    }
+  </style>
+
+  <link href="scrolly-styles.css" rel="stylesheet">
+  <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollama/3.2.0/scrollama.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.3.0/d3.min.js"></script>
+</head>
+
+<body>
+
+  <div class="content">
+    <div class="header">
+      <h1>Alles wird teurer! Oder doch nicht?</h1>
+      <p class="subhead">Ich habe meine Kassenbons studiert, einige Überraschungen erlebt. Doch am Ende habe ich eben doch weniger Geld im Portemonnaie.</p>
+      <figure style="margin: 0 0 1em 0;">
+  <img src="https://github.com/schube13/Images/blob/main/Einkaufszettel.png?raw=true" alt="Einkaufszettel" style="width: 100%; height: auto; display: block;">
+</figure>
+
+    </div>
+    <p>Seit die Preise im Laden nicht mehr direkt am Produkt angeschrieben sind, sondern nur noch am Gestell, habe ich den Überblick über den Wert von einzelnen Produkten etwas verloren. </p>
+    <p>Kostet ein Liter Milch 1.50 CHF? 2 CHF? Oder doch nur 1.10 CHF? Ich weiss es nicht. Ich scanne das Produkt einfach gedankenlos ein und bezahle am Ende den Betrag, den es mir anzeigt. Mit ist einzig aufgefallen, dass ein Wocheneinkauf seit längerem nie mehr unter 100 CHF gekoset hat. Alles scheint teurer geworden zu sein.</p>
+    <p>Dank der Treuekarte kann ich die Digitalen Kassenbons der Jahre 23, 24 und 25 herunterladen. Drei Produkte kaufe ich sehr regelmässig ein:</p>
+    <p>Zopf, Kuchenteig und Kaffeebohnen.</p>
+  </div>
+
+  <!-- SCROLLYTELLING 1 – Zopf -->
+  <section id="scrolly-zopf" class="scrolly-container">
+    <div class="sticky-thing">
+      <img class="background-img" src="https://github.com/schube13/Images/blob/main/Zopf_oben.png?raw=true" alt="Comic Zopf">
+    </div>
+    <div class="steps-container">
+      <div class="step" id="step1">
+        <div>
+          <h2>Wie viel teurer ist mein Sonntagsbrot?</h2>
+          <p>Zopf, eine Schweizer Brotspezialität, kaufe ich praktisch jeden Sonntag.</p>
+          <p>Ich bin mir fast sicher, dass der Preis über zwei Jahre gestiegen ist.</p>
+          <p>Prüfen wir das mal nach!</p>
+        </div>
+      </div>
+      <div class="step" id="step2">
+        <div class="scroll-chart-box">
+          <img src="https://github.com/schube13/Images/blob/main/Grafik_Zopf.png?raw=true" alt="Zopf Preisentwicklung">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TEXTABSCHNITT mit vollem Hintergrundbild -->
+  <section style="
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)),
+    url('https://github.com/schube13/Images/blob/main/Zopf_unten.png?raw=true');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 4em 1em;
+">
+  <div style="
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 0.75em;
+    padding: 2em;
+    text-align: center;
+  ">
+    <p>Der Preis ist nicht gestiegen. Im Gegenteil: Zopf ist jetzt sogar billiger als 2023. Das überrascht mich sehr. Hatten die erhöhten Strompreise als Folge des Ukrainenkriegs gar keine Auswirkungen?</p>
+
+    <figure>
+      <img src="https://github.com/schube13/Images/blob/main/Grafik_Zopf_Energie-01.png?raw=true" alt="Energiepreise vs. Zopf">
+    </figure>
+      <p>Spannend: Der Zopf wurde mit höheren Energiepreisen nicht teurer. Im Gegenteil: Er wurde billiger, als die Strompreise wieder sanken.</p>
+    </div>
+  </section>
+
+  <!-- SCROLLYTELLING 2 – Teig -->
+  <!-- SCROLLYTELLING 2 – Teig (Teil 4) -->
+<section class="scrolly-container">
+  <div class="sticky-thing">
+    <img class="background-img" src="https://github.com/schube13/Images/blob/main/Teig_oben.png?raw=true" alt="Kuchenteig">
+  </div>
+  <div class="steps-container">
+    <div class="step" id="step3">
+      <div>
+        <h2>Wie viel teurer ist mein Kuchenteig?</h2>
+        <p>Dieser ausgewallte Teig hat sich - trotz gleicher Rezeptur - zur Premium-Marke entwickelt.</p>
+        <p>Das war im September 24. Ob sich dadurch etwas am Preis geändert hat?</p>
+        <p>Mal schauen!</p>
+      </div>
+    </div>
+    <div class="step" id="step4">
+      <div class="scroll-chart-box">
+        <img src="https://github.com/schube13/Images/blob/main/Grafik_Teig.png?raw=true" alt="Teig Preisentwicklung">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Zwischenstück mit Hintergrundbild: Idee_unten.png (Teil 5) -->
+  <!-- TEXTABSCHNITT mit vollem Hintergrundbild -->
+  <section style="
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)),
+    url('https://github.com/schube13/Images/blob/main/Teig_unten.png?raw=true');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 4em 1em;
+">
+  <div style="
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 0.75em;
+    padding: 2em;
+    text-align: center;
+  ">
+    <p>Der Kuchenteig wurde für eine kurze Zeit billiger, ging dann aber wieder auf den ursprünglichen Preis zurück. Da interessiert es mich doch, ob vielleicht insgesamt Lebensmittel in der Schweiz nicht teurer geworden sind.</p>
+    <figure>
+      <img src="https://github.com/schube13/Images/blob/main/Grafik_Teig_Teuerung-01.png?raw=true" alt="Kuchenteig und Teuerung">
+    </figure>
+      <p>Noch eine Überraschung: Der Kuchenteig wure trotz allgemeinder Teuerung von Nahrungsmittel nicht teurer.</p>
+    </div>
+  </section>
+
+<!-- SCROLLYTELLING 3 – Kaffee (Teil 6) -->
+<section class="scrolly-container">
+  <div class="sticky-thing">
+    <img class="background-img" src="https://github.com/schube13/Images/blob/main/Espresso.png?raw=true" alt="Espresso">
+  </div>
+  <div class="steps-container">
+    <div class="step" id="step5">
+      <div>
+        <h2>Wie teuer sind meine Kaffeebohnen?</h2>
+        <p>Ich kaufe immer die Espressobohnen der Billigmarken.</p>
+        <p>Hier ist mir der Preisanstieg in den letzten Monaten besonders aufgefallen.</p>
+        <p>Ich bin gespannt auf die Zahlen.</p>
+      </div>
+    </div>
+    <div class="step" id="step6">
+      <div class="scroll-chart-box">
+        <img src="https://github.com/schube13/Images/blob/main/Espresso_klein-01.png?raw=true" alt="Kaffeepreis Chart">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Zwischenstück mit Hintergrundbild: kaffee_zwischenbild.png (Teil 7) -->
+  <section style="
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)),
+    url('https://github.com/schube13/Images/blob/main/kaffee_zwischenbild.png?raw=true');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 4em 1em;
+">
+ <div style="
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 0.75em;
+    padding: 2em;
+    text-align: center;
+  ">
+    <p>Der Preis für 1 Kilo Kaffeebohnen scheint volatil zu sein.</p>
+    </p>Der Preis steigt rasch, sinkt dann auch wieder.</p>
+    <p>Ich vermute, dass Kaffebohnen stark mit dem Marktwert von Kaffeebohnen zusammenhängen.</p>
+    <p>Prüfen wir das mal nach.</p>
+    <figure>
+      <img src="https://github.com/schube13/Images/blob/main/grafik_nahrungsmittel_energie_kaffee_espresso-01.png?raw=true" alt="Kaffee und Kaffeepreis">
+    </figure>
+    <p>Ich weiss nicht, wie es euch damit geht. Aber ich habe den Eindruck, dass der internationale Preis für Kaffee zwar bei Preisansteigen eine Rolle spielt, aber bei Preissenkungen wenige.</p>
+    <p>Das alles macht einfach keinen Sinn.</p>
+  </div>
+  </section>
+
+<!-- SCROLLYTELLING 4 – Portemonnaie (Teil 8) -->
+<section class="scrolly-container">
+  <div class="sticky-thing">
+    <img class="background-img" src="https://github.com/schube13/Images/blob/main/Lohn_neu.png?raw=true" alt="Lohnentwicklung">
+  </div>
+  <div class="steps-container last-section">
+    <div class="step" id="step7" style="margin-top: 0;">
+      <div>
+        <p>Erfreulich ist zu sehen, dass sich die Preise rasch nach unten anpassen können. Das war mir so nicht bewusst.</p>
+        <p>Aber: Insgesamt sind die Produkte teurer geworden seit Januar 2023.</p>
+        <p>Hat sich seit Januar 23 womöglich auch mein Lohn verbessert? Um dies herauszufinden, setzen Sie nun den Stift an und zeichnen eine horizontale Linie. Das ist meine Lohnentwicklung.</p>
+      </div>
+    </div>
+    <div class="step" id="step8">
+      <div class="scroll-chart-box">
+        <img src="https://github.com/schube13/Images/blob/main/Lohn_Schube.png?raw=true" alt="Schube Lohn">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<div class="footer">
+  <div class="content">
+    <p>Pictures are all created by AI even though Soma hates it.</p>
+    <p>Projektcode: <a href="https://github.com/schube13/Projekt-LEDE-Migros">github.com/schube13/Projekt-LEDE-Migros</a></p>
+  </div>
+</div>
