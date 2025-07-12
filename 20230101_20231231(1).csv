@@ -1,0 +1,1298 @@
+Datum;Zeit;Filiale;Kassennummer;Transaktionsnummer;Artikel;Menge;Aktion;Umsatz
+30.12.2023;12:36:25;MM Solothurn;253;46;Bio Limes;1;0.00;2.50
+30.12.2023;12:36:25;MM Solothurn;253;46;Bio Heidelbeeren;1;0.00;6.95
+30.12.2023;12:36:25;MM Solothurn;253;46;Kiwi Gold;1;0.00;2.20
+30.12.2023;12:36:25;MM Solothurn;253;46;Extra Blondorangen;1.086;0.81;1.90
+30.12.2023;12:36:25;MM Solothurn;253;46;Mango essreif;1;0.00;1.80
+30.12.2023;12:36:25;MM Solothurn;253;46;Äpfel Boskoop;1.100;0.00;3.85
+30.12.2023;12:36:25;MM Solothurn;253;46;Wunderkerze 6 Stk.;1;0.00;5.95
+30.12.2023;12:36:25;MM Solothurn;253;46;Folienballon 2024;1;0.00;5.95
+30.12.2023;12:36:25;MM Solothurn;253;46;Tischbombe Maxi;1;0.00;14.95
+30.12.2023;12:36:25;MM Solothurn;253;46;Perldor Classic 750ml;2;0.00;9.90
+30.12.2023;12:36:25;MM Solothurn;253;46;Fenchel;0.297;0.00;0.95
+30.12.2023;12:36:25;MM Solothurn;253;46;Schnittlauch;1;0.00;1.00
+30.12.2023;12:36:25;MM Solothurn;253;46;Radieschen;1;0.00;1.60
+30.12.2023;12:36:25;MM Solothurn;253;46;Rotkabis;0.559;0.00;0.95
+30.12.2023;12:36:25;MM Solothurn;253;46;M-Drink UHT Brik 12x1l;1;0.00;15.35
+30.12.2023;12:36:25;MM Solothurn;253;46;Excellence Vanille;2;0.00;2.10
+30.12.2023;12:36:25;MM Solothurn;253;46;Excellence Classic;2;0.00;2.10
+30.12.2023;12:36:25;MM Solothurn;253;46;Bio Roggenbrot;1;0.00;3.95
+30.12.2023;12:36:25;MM Solothurn;253;46;Bio Joghurt Kirschen;2;0.00;1.90
+30.12.2023;12:36:25;MM Solothurn;253;46;Elsa Waldbeere Joghurt;2;0.00;1.90
+30.12.2023;12:36:25;MM Solothurn;253;46;Berg Vorzugsbutter;1;0.00;3.15
+30.12.2023;12:36:25;MM Solothurn;253;46;MBud Crème Fraîche;1;0.00;6.25
+30.12.2023;12:36:25;MM Solothurn;253;46;Schmelzkäse Gruyère;1;0.00;2.95
+30.12.2023;12:36:25;MM Solothurn;253;46;Eier CH Respeggt;1;0.00;3.90
+30.12.2023;12:36:25;MM Solothurn;253;46;Reiswaffeln Schokolade;1;0.00;1.20
+30.12.2023;12:36:25;MM Solothurn;253;46;Toastauflage;1;0.00;3.95
+30.12.2023;12:36:25;MM Solothurn;253;46;Dörrbohnen;1;0.00;4.60
+30.12.2023;12:36:25;MM Solothurn;253;46;MClass Rippli;0.358;0.00;8.60
+30.12.2023;12:36:25;MM Solothurn;253;46;ASC Rauchlachs;1;10.00;9.95
+30.12.2023;12:36:25;MM Solothurn;253;46;MClass Langkornreis;1;0.00;2.45
+30.12.2023;12:36:25;MM Solothurn;253;46;MClass Erbsen Karotten;4;0.00;9.60
+30.12.2023;12:36:25;MM Solothurn;253;46;MClass MSC Thon Oel;1;0.00;1.95
+30.12.2023;12:36:25;MM Solothurn;253;46;Ice Tea Zitrone 10x1l;1;3.35;4.95
+30.12.2023;12:36:25;MM Solothurn;253;46;G'nuine Zero 70cl;1;0.00;24.95
+30.12.2023;12:36:25;MM Solothurn;253;46;MClass Meerrettich;1;0.00;2.95
+30.12.2023;12:36:25;MM Solothurn;253;46;Sélec Moscato;2;0.00;13.90
+30.12.2023;12:36:25;MM Solothurn;253;46;MBud Orangensaft 1.5l;1;0.00;1.50
+30.12.2023;12:36:25;MM Solothurn;253;46;Sun Queen FT Guave;1;0.00;2.25
+30.12.2023;12:36:25;MM Solothurn;253;46;Noir Spécial 3x100g;1;0.00;6.30
+30.12.2023;12:36:25;MM Solothurn;253;46;MBud Eisbergsalat;1;0.00;1.20
+30.12.2023;12:36:25;MM Solothurn;253;46;LT Excel. Fleur de Sel;1;0.00;3.15
+30.12.2023;12:36:25;MM Solothurn;253;46;MClass Chin. Poulet;1;0.00;17.95
+30.12.2023;12:36:25;MM Solothurn;253;46;MClass Chin. Rind;1;0.00;19.95
+30.12.2023;12:36:25;MM Solothurn;253;46;MNY FitMe FDT Mat 104;1;0.00;13.95
+30.12.2023;12:36:25;MM Solothurn;253;46;Maybelline Mascara;1;0.00;15.95
+30.12.2023;12:36:25;MM Solothurn;253;46;Wagyu Burger 2x125g;2;0.00;23.00
+30.12.2023;12:36:25;MM Solothurn;253;46;MBud Cocktailcrevetten;1;0.00;5.60
+30.12.2023;12:36:25;MM Solothurn;253;46;Bonus-Coupon 2x;1;0;0
+30.12.2023;12:36:25;MM Solothurn;253;46;CUM +3xPkt.Ges.Sort.;1;0;0
+23.12.2023;14:51:36;M Solothurn Öufi;251;153;MBud Baguette 300g;1;0.00;1.20
+22.12.2023;15:02:33;MMM Langendorf;266;289;Extra Kiwi rot;1;0.75;2.15
+22.12.2023;15:02:33;MMM Langendorf;266;289;MBud Bananen;0.933;0.00;1.40
+22.12.2023;15:02:33;MMM Langendorf;266;289;Karotten;1;0.60;1.30
+22.12.2023;15:02:33;MMM Langendorf;266;289;Champignons braun;0.300;0.00;3.00
+22.12.2023;15:02:33;MMM Langendorf;266;289;Broccoli;0.462;0.32;1.20
+22.12.2023;15:02:33;MMM Langendorf;266;289;Bio Roggenbrot;1;0.00;3.95
+22.12.2023;15:02:33;MMM Langendorf;266;289;MClass Toast&Sandwich;1;0.00;1.20
+22.12.2023;15:02:33;MMM Langendorf;266;289;MClass Kuchenteig;1;0.00;1.55
+22.12.2023;15:02:33;MMM Langendorf;266;289;Frische Backhefe;2;0.00;0.60
+22.12.2023;15:02:33;MMM Langendorf;266;289;Schwarzwälder Schinken;0.117;0.00;6.30
+22.12.2023;15:02:33;MMM Langendorf;266;289;Hinterschinken;4;0.00;15.80
+22.12.2023;15:02:33;MMM Langendorf;266;289;Moliterno al tartufo;0.198;0.00;11.70
+22.12.2023;15:02:33;MMM Langendorf;266;289;Lenker Kräuterkäse;0.222;0.00;6.75
+22.12.2023;15:02:33;MMM Langendorf;266;289;Ziegenkaese;0.106;0.00;3.60
+22.12.2023;15:02:33;MMM Langendorf;266;289;Gruyère Moléson 18Mt;0.230;0.00;7.25
+22.12.2023;15:02:33;MMM Langendorf;266;289;Stilton;0.153;0.00;5.95
+22.12.2023;15:02:33;MMM Langendorf;266;289;Morchel Terrine;0.144;0.00;5.60
+22.12.2023;15:02:33;MMM Langendorf;266;289;IP K-Plaetzli;0.230;0.00;22.20
+22.12.2023;15:02:33;MMM Langendorf;266;289;Rinds-Tatar;0.148;0.00;17.30
+22.12.2023;15:02:33;MMM Langendorf;266;289;Excellence Vanille;2;0.00;2.10
+22.12.2023;15:02:33;MMM Langendorf;266;289;Le Gruyère 120g;1;0.00;2.70
+22.12.2023;15:02:33;MMM Langendorf;266;289;MClass Cottage Cheese;1;0.00;1.80
+22.12.2023;15:02:33;MMM Langendorf;266;289;MBud Mozzarella;4;0.00;9.00
+22.12.2023;15:02:33;MMM Langendorf;266;289;Schmelzkäse Gruyère;1;0.00;2.95
+22.12.2023;15:02:33;MMM Langendorf;266;289;Solothurner Eier 53g+;1;0.00;3.95
+22.12.2023;15:02:33;MMM Langendorf;266;289;Sélec Salmon Cheesecak;1;1.40;5.55
+22.12.2023;15:02:33;MMM Langendorf;266;289;MBud Haushaltmehl;2;0.00;2.00
+22.12.2023;15:02:33;MMM Langendorf;266;289;Zweifel Vaya Bean;1;0.00;3.95
+22.12.2023;15:02:33;MMM Langendorf;266;289;Thomy Tartare 185ml;1;0.00;3.30
+22.12.2023;15:02:33;MMM Langendorf;266;289;MClass Bearnaise Sauce;1;0.00;1.85
+22.12.2023;15:02:33;MMM Langendorf;266;289;Tomatenpüree 440g;3;0.00;5.85
+22.12.2023;15:02:33;MMM Langendorf;266;289;MClass schwarze Oliven;1;0.00;2.10
+22.12.2023;15:02:33;MMM Langendorf;266;289;Artischocken geschnitt;1;0.00;5.10
+22.12.2023;15:02:33;MMM Langendorf;266;289;MClass Knoblauch Sauce;1;0.00;1.85
+22.12.2023;15:02:33;MMM Langendorf;266;289;MClass Cocktail Sauce;1;0.00;1.85
+22.12.2023;15:02:33;MMM Langendorf;266;289;Heinz Ketchup 500ml;1;0.00;3.50
+22.12.2023;15:02:33;MMM Langendorf;266;289;MClass Erbsen Karotten;1;0.00;2.40
+22.12.2023;15:02:33;MMM Langendorf;266;289;Condy Kapern;2;0.00;2.90
+22.12.2023;15:02:33;MMM Langendorf;266;289;MClass MSC Rosa Thon;1;0.00;3.70
+22.12.2023;15:02:33;MMM Langendorf;266;289;MClass Champignon;2;0.00;3.40
+22.12.2023;15:02:33;MMM Langendorf;266;289;Sélec Marc de Champag.;2;0.00;11.90
+22.12.2023;15:02:33;MMM Langendorf;266;289;Finest IPS Chin. Rind;1;0.00;29.95
+22.12.2023;15:02:33;MMM Langendorf;266;289;CUMULUS BON 20.-;0;0;-20.00
+22.12.2023;15:02:33;MMM Langendorf;266;289;CUMULUS BON 20.-;0;0;-20.00
+22.12.2023;15:02:33;MMM Langendorf;266;289;CUMULUS BON 10.-;0;0;-10.00
+22.12.2023;15:02:33;MMM Langendorf;266;289;CUMULUS BON 10.-;0;0;-10.00
+22.12.2023;15:02:33;MMM Langendorf;266;289;CUMULUS BON 10.-;0;0;-10.00
+22.12.2023;15:02:33;MMM Langendorf;266;289;CUMULUS BON 10.-;0;0;-10.00
+22.12.2023;15:02:33;MMM Langendorf;266;289;Bonus-Coupon 2x;1;0;0
+22.12.2023;15:02:33;MMM Langendorf;266;289;CUM +3xPkt.Ges.Sort.;1;0;0
+22.12.2023;15:02:33;MMM Langendorf;266;289;CUM40% Teige;1;0;-0.86
+16.12.2023;12:15:52;MM Solothurn;257;89;Fairtrade Litschis;1;0.00;4.50
+16.12.2023;12:15:52;MM Solothurn;257;89;Kiwi Gold;1;0.00;2.20
+16.12.2023;12:15:52;MM Solothurn;257;89;MBud Bananen;0.933;0.00;1.40
+16.12.2023;12:15:52;MM Solothurn;257;89;Fenchel;0.340;0.27;0.85
+16.12.2023;12:15:52;MM Solothurn;257;89;Nüsslisalat;1;0.00;3.95
+16.12.2023;12:15:52;MM Solothurn;257;89;Butterzopf;1;0.00;3.90
+16.12.2023;12:15:52;MM Solothurn;257;89;MClass Raclette Nature;1;0.00;6.35
+16.12.2023;12:15:52;MM Solothurn;257;89;Tomme la Fleur;1;0.00;5.90
+16.12.2023;12:15:52;MM Solothurn;257;89;Sbrinz Bröckli;1;0.00;3.50
+16.12.2023;12:15:52;MM Solothurn;257;89;Excellence Vanille;2;0.00;2.10
+16.12.2023;12:15:52;MM Solothurn;257;89;Excellence Kirsche;2;0.00;2.10
+16.12.2023;12:15:52;MM Solothurn;257;89;Joghurt Johannisbeere;1;0.00;0.80
+16.12.2023;12:15:52;MM Solothurn;257;89;Berg Vorzugsbutter;1;0.00;3.15
+16.12.2023;12:15:52;MM Solothurn;257;89;Eier CH Respeggt;1;0.00;3.90
+16.12.2023;12:15:52;MM Solothurn;257;89;MClass Haferflöckli;1;0.00;1.50
+16.12.2023;12:15:52;MM Solothurn;257;89;MClass Rippli;0.317;0.00;7.60
+16.12.2023;12:15:52;MM Solothurn;257;89;MClass mit 10% Butter;1;0.00;5.70
+16.12.2023;12:15:52;MM Solothurn;257;89;HM Regeneriersalz;2;0.00;2.20
+16.12.2023;12:15:52;MM Solothurn;257;89;CUM +2xPkt.Ges.Sort.;1;0;0
+16.12.2023;12:15:52;MM Solothurn;257;89;CUM40% Excellence;1;0;-1.68
+16.12.2023;12:15:52;MM Solothurn;257;89;CUM40% Speisefett;1;0;-2.28
+09.12.2023;13:01:54;MM Solothurn;255;44;Mango essreif;1;0.00;1.70
+09.12.2023;13:01:54;MM Solothurn;255;44;MBud Bananen;0.600;0.00;0.90
+09.12.2023;13:01:54;MM Solothurn;255;44;Äpfel Boskoop;1.343;0.00;4.70
+09.12.2023;13:01:54;MM Solothurn;255;44;Fenchel;0.364;0.00;1.20
+09.12.2023;13:01:54;MM Solothurn;255;44;Rotkabis;0.450;0.00;0.90
+09.12.2023;13:01:54;MM Solothurn;255;44;MClass Kuchenteig;1;0.00;1.55
+09.12.2023;13:01:54;MM Solothurn;255;44;Reiswaffeln Schokolade;1;0.00;1.20
+09.12.2023;13:01:54;MM Solothurn;255;44;Weinsauerkraut 500g;1;0.00;2.15
+09.12.2023;13:01:54;MM Solothurn;255;44;Bernerli 2 Paar;1;0.00;5.60
+09.12.2023;13:01:54;MM Solothurn;255;44;Rippli Nierstück ger.;0.178;0.00;5.15
+09.12.2023;13:01:54;MM Solothurn;255;44;Sélec Rindsfilet;0.185;4.44;17.61
+09.12.2023;13:01:54;MM Solothurn;255;44;Feldschlösschen 6x50cl;1;0.00;11.50
+09.12.2023;13:01:54;MM Solothurn;255;44;Emilio Tomaten getr.;1;0.00;3.30
+09.12.2023;13:01:54;MM Solothurn;255;44;MBud Oliven Mix;1;0.00;2.40
+09.12.2023;13:01:54;MM Solothurn;255;44;Zweifel Vaya Bean;1;0.00;3.95
+09.12.2023;13:01:54;MM Solothurn;255;44;Etoilekerzen 8 Stk.;1;0.00;4.95
+09.12.2023;13:01:54;MM Solothurn;255;44;Happy Bird Müeslimix;1;0.00;4.60
+09.12.2023;13:01:54;MM Solothurn;255;44;Kehrichtsäcke 110L;1;0.00;3.95
+09.12.2023;13:01:54;MM Solothurn;255;44;Elmex Repair&Prev Duo;1;0.00;12.60
+09.12.2023;13:01:54;MM Solothurn;255;44;Kneipp Vit C + Zink;1;0.00;5.95
+09.12.2023;13:01:54;MM Solothurn;255;44;IPS Blattspinat 800g;1;0.00;4.30
+09.12.2023;13:01:54;MM Solothurn;255;44;CUM +2xPkt.Ges.Sort.;1;0;0
+02.12.2023;13:26:49;MM Solothurn;251;118;M-Clas Sonnenbl. 4kg;1;0.00;12.95
+02.12.2023;13:26:49;MM Solothurn;251;118;Fairtrade Litschis;0.223;0.00;3.35
+02.12.2023;13:26:49;MM Solothurn;251;118;MBud Bananen;0.933;0.00;1.40
+02.12.2023;13:26:49;MM Solothurn;251;118;Kiwi Gold;1;0.00;1.95
+02.12.2023;13:26:49;MM Solothurn;251;118;Blévita Gruyère;1;0.00;3.95
+02.12.2023;13:26:49;MM Solothurn;251;118;Granatapfel;1;0.50;1.00
+02.12.2023;13:26:49;MM Solothurn;251;118;Fenchel;0.486;0.00;1.70
+02.12.2023;13:26:49;MM Solothurn;251;118;Rosenkohl;1;0.00;3.75
+02.12.2023;13:26:49;MM Solothurn;251;118;Nüsslisalat;1;0.00;3.80
+02.12.2023;13:26:49;MM Solothurn;251;118;Vermicelles-Becher;1;0.00;4.00
+02.12.2023;13:26:49;MM Solothurn;251;118;Butterzopf;1;0.00;3.90
+02.12.2023;13:26:49;MM Solothurn;251;118;Schmelzkäse Gruyère;1;0.00;2.95
+02.12.2023;13:26:49;MM Solothurn;251;118;Bio Roggenbrot;1;0.00;3.95
+02.12.2023;13:26:49;MM Solothurn;251;118;Emmenspitz;0.202;0.00;6.05
+02.12.2023;13:26:49;MM Solothurn;251;118;Emilio Grana Padano;0.274;1.10;5.75
+02.12.2023;13:26:49;MM Solothurn;251;118;Gstaader Mutschli;0.198;0.89;4.65
+02.12.2023;13:26:49;MM Solothurn;251;118;MBud Camembert;1;0.00;1.80
+02.12.2023;13:26:49;MM Solothurn;251;118;Sbrinz Bröckli;1;0.00;3.50
+02.12.2023;13:26:49;MM Solothurn;251;118;Fritzenflue Bergkäse;0.202;0.00;5.65
+02.12.2023;13:26:49;MM Solothurn;251;118;Sennenmutschli;0.278;0.00;6.95
+02.12.2023;13:26:49;MM Solothurn;251;118;Excellence Classic;2;0.42;1.68
+02.12.2023;13:26:49;MM Solothurn;251;118;Excellence Vanille;2;0.42;1.68
+02.12.2023;13:26:49;MM Solothurn;251;118;Tête de Moine Rosetten;1;0.00;5.70
+02.12.2023;13:26:49;MM Solothurn;251;118;Berg Vorzugsbutter;1;0.00;3.15
+02.12.2023;13:26:49;MM Solothurn;251;118;Valflora Vorzugsbutter;1;0.00;1.95
+02.12.2023;13:26:49;MM Solothurn;251;118;Reiswaffeln Schokolade;2;0.00;2.40
+02.12.2023;13:26:49;MM Solothurn;251;118;Sélec Aceto Balsamico;1;0.00;18.95
+02.12.2023;13:26:49;MM Solothurn;251;118;MClass Rippli;0.300;0.00;7.20
+02.12.2023;13:26:49;MM Solothurn;251;118;MClass Gewürzschinken;0.101;0.00;3.40
+02.12.2023;13:26:49;MM Solothurn;251;118;Kalbsfleischwurst;1;0.00;2.50
+02.12.2023;13:26:49;MM Solothurn;251;118;Ofenfleischkäse;0.140;0.00;3.65
+02.12.2023;13:26:49;MM Solothurn;251;118;Salami Perle Chorizo;1;0.00;4.50
+02.12.2023;13:26:49;MM Solothurn;251;118;Salami Sticks Rind;1;0.00;4.50
+02.12.2023;13:26:49;MM Solothurn;251;118;Krustenschinken;0.244;3.29;7.70
+02.12.2023;13:26:49;MM Solothurn;251;118;MBud Mostbröckli;1;0.00;5.95
+02.12.2023;13:26:49;MM Solothurn;251;118;MClass Haferflöckli;1;0.00;1.50
+02.12.2023;13:26:49;MM Solothurn;251;118;MClass Salatkäse;1;0.00;2.70
+02.12.2023;13:26:49;MM Solothurn;251;118;Bratspeck;0.108;0.00;3.25
+02.12.2023;13:26:49;MM Solothurn;251;118;Farm Bio Rösti Origin.;1;0.00;2.95
+02.12.2023;13:26:49;MM Solothurn;251;118;CUM +2xPkt.Ges.Sort.;1;0;0
+02.12.2023;13:26:49;MM Solothurn;251;118;CUM40x Pkt Kochschinken;1;0;0
+25.11.2023;14:05:04;MM Solothurn;257;161;Extra Kiwi rot;2;0.00;5.80
+25.11.2023;14:05:04;MM Solothurn;257;161;Mango essreif;1;0.50;1.45
+25.11.2023;14:05:04;MM Solothurn;257;161;MBud Bananen;0.700;0.00;1.05
+25.11.2023;14:05:04;MM Solothurn;257;161;Äpfel Boskoop;1.357;0.00;4.75
+25.11.2023;14:05:04;MM Solothurn;257;161;Randen gedämpft;0.487;0.00;1.90
+25.11.2023;14:05:04;MM Solothurn;257;161;Schoenr. Mutschli;0.222;0.00;6.00
+25.11.2023;14:05:04;MM Solothurn;257;161;M-Drink UHT Brik 12x1l;1;2.90;16.30
+25.11.2023;14:05:04;MM Solothurn;257;161;Sbrinz Bröckli;1;0.00;3.50
+25.11.2023;14:05:04;MM Solothurn;257;161;Excellence Vanille;2;0.00;2.10
+25.11.2023;14:05:04;MM Solothurn;257;161;Elsa Joghurt Rhabarber;2;0.00;2.20
+25.11.2023;14:05:04;MM Solothurn;257;161;MBud Crème Fraîche;1;0.00;6.25
+25.11.2023;14:05:04;MM Solothurn;257;161;MClass Kuchenteig;1;0.00;1.55
+25.11.2023;14:05:04;MM Solothurn;257;161;MBud Espresso Bohnen;1;0.00;6.00
+25.11.2023;14:05:04;MM Solothurn;257;161;Poulet Minifilet;0.226;1.24;6.90
+25.11.2023;14:05:04;MM Solothurn;257;161;Hot Smoked Salmon;1;0.00;5.80
+25.11.2023;14:05:04;MM Solothurn;257;161;Zweifel Vaya Bean;1;0.00;3.95
+25.11.2023;14:05:04;MM Solothurn;257;161;Bio Dörrbohnen;1;2.80;5.70
+25.11.2023;14:05:04;MM Solothurn;257;161;MBud Spearmint 154g;2;0.00;5.80
+25.11.2023;14:05:04;MM Solothurn;257;161;LT Excel. Fleur de Sel;1;0.00;3.15
+25.11.2023;14:05:04;MM Solothurn;257;161;Reiswaffeln Schokolade;2;0.00;2.40
+25.11.2023;14:05:04;MM Solothurn;257;161;MClass Senf scharf;1;0.00;1.30
+25.11.2023;14:05:04;MM Solothurn;257;161;Bonus-Coupon 2x;1;0;0
+18.11.2023;14:23:31;MM Solothurn;255;63;Extra Blondorangen;0.750;0.00;1.80
+18.11.2023;14:23:31;MM Solothurn;255;63;Bananen;0.540;0.00;1.35
+18.11.2023;14:23:31;MM Solothurn;255;63;Fenchel;0.457;0.00;1.60
+18.11.2023;14:23:31;MM Solothurn;255;63;Butterzopf;1;0.00;2.50
+18.11.2023;14:23:31;MM Solothurn;255;63;Raccard Nature Scheib;0.406;0.00;10.55
+18.11.2023;14:23:31;MM Solothurn;255;63;Excellence Vanille;2;0.00;2.10
+18.11.2023;14:23:31;MM Solothurn;255;63;Excellence Kirsche;2;0.00;2.10
+18.11.2023;14:23:31;MM Solothurn;255;63;Valflora Drink UHT;1;0.00;9.60
+18.11.2023;14:23:31;MM Solothurn;255;63;Eier CH Respeggt;1;0.00;3.90
+18.11.2023;14:23:31;MM Solothurn;255;63;Reiswaffeln Schokolade;1;0.00;1.20
+18.11.2023;14:23:31;MM Solothurn;255;63;Dörrbohnen;1;0.00;4.60
+18.11.2023;14:23:31;MM Solothurn;255;63;MClass Rippli;0.369;0.00;8.85
+18.11.2023;14:23:31;MM Solothurn;255;63;Randen gedämpft;0.436;0.00;1.70
+18.11.2023;14:23:31;MM Solothurn;255;63;Vermicelles-Becher;1;1.85;2.15
+18.11.2023;14:23:31;MM Solothurn;255;63;JuraSel Tafelsalz Jod;1;0.00;0.90
+18.11.2023;14:23:31;MM Solothurn;255;63;MBud Spearmint 154g;2;0.00;5.80
+18.11.2023;14:23:31;MM Solothurn;255;63;Zweifel Vaya Bean;1;0.00;3.95
+18.11.2023;14:23:31;MM Solothurn;255;63;CUM +3xPkt.Ges.Sort.;1;0;0
+18.11.2023;14:23:31;MM Solothurn;255;63;CUM20x Pkt Raccard;1;0;0
+11.11.2023;13:12:48;MM Solothurn;257;127;Bananen;0.800;1.20;0.80
+11.11.2023;13:12:48;MM Solothurn;257;127;Fenchel;0.462;0.00;1.80
+11.11.2023;13:12:48;MM Solothurn;257;127;Bohnen;1;0.00;4.20
+11.11.2023;13:12:48;MM Solothurn;257;127;Rotkabis;0.625;0.00;1.25
+11.11.2023;13:12:48;MM Solothurn;257;127;Rosenkohl;1;0.00;3.75
+11.11.2023;13:12:48;MM Solothurn;257;127;Le Gruyère 120g;1;0.00;2.70
+11.11.2023;13:12:48;MM Solothurn;257;127;Sbrinz Bröckli;1;0.00;3.50
+11.11.2023;13:12:48;MM Solothurn;257;127;Excellence Vanille;2;0.00;2.10
+11.11.2023;13:12:48;MM Solothurn;257;127;Elsa Waldbeere Joghurt;2;0.00;1.90
+11.11.2023;13:12:48;MM Solothurn;257;127;Berg Vorzugsbutter;1;0.00;3.15
+11.11.2023;13:12:48;MM Solothurn;257;127;Eier CH Respeggt;1;0.00;3.90
+11.11.2023;13:12:48;MM Solothurn;257;127;Reiswaffeln Schokolade;2;0.00;2.40
+11.11.2023;13:12:48;MM Solothurn;257;127;MClass Haferflöckli;1;0.00;1.50
+11.11.2023;13:12:48;MM Solothurn;257;127;MClass Rippli;0.423;0.00;10.15
+11.11.2023;13:12:48;MM Solothurn;257;127;Bratspeck;0.117;0.00;3.50
+11.11.2023;13:12:48;MM Solothurn;257;127;Bio Speckwürfeli;1;0.00;4.10
+11.11.2023;13:12:48;MM Solothurn;257;127;Kalbsplätzli;0.135;0.00;11.90
+11.11.2023;13:12:48;MM Solothurn;257;127;Blévita Gruyère;1;0.00;3.95
+11.11.2023;13:12:48;MM Solothurn;257;127;Apfelsaft ab Presse;1;0.00;2.95
+11.11.2023;13:12:48;MM Solothurn;257;127;MBud Spearmint 154g;2;0.00;5.80
+04.11.2023;12:46:26;MM Solothurn;257;111;Trauben Uva Italia;0.408;0.00;1.55
+04.11.2023;12:46:26;MM Solothurn;257;111;MBud Bananen;0.600;0.00;0.90
+04.11.2023;12:46:26;MM Solothurn;257;111;Apero-Mix getrocknet;1;0.00;6.90
+04.11.2023;12:46:26;MM Solothurn;257;111;Knollensellerie;0.408;0.00;1.55
+04.11.2023;12:46:26;MM Solothurn;257;111;Butterzopf;1;0.00;2.50
+04.11.2023;12:46:26;MM Solothurn;257;111;MClass Kuchenteig;2;0.00;3.10
+04.11.2023;12:46:26;MM Solothurn;257;111;Bio Roggenbrot;1;0.00;3.95
+04.11.2023;12:46:26;MM Solothurn;257;111;Tomme la Fleur;1;0.00;5.90
+04.11.2023;12:46:26;MM Solothurn;257;111;Sennemutschli;0.136;0.00;3.80
+04.11.2023;12:46:26;MM Solothurn;257;111;Emilio Grana Padano;0.271;1.09;5.70
+04.11.2023;12:46:26;MM Solothurn;257;111;MBud Crème Fraîche;1;0.00;6.25
+04.11.2023;12:46:26;MM Solothurn;257;111;Valflora Drink UHT;1;0.00;9.60
+04.11.2023;12:46:26;MM Solothurn;257;111;Eier CH Respeggt;1;0.00;3.90
+04.11.2023;12:46:26;MM Solothurn;257;111;Reiswaffeln Schokolade;1;0.00;1.20
+04.11.2023;12:46:26;MM Solothurn;257;111;MClass Haferflöckli;1;0.00;1.50
+04.11.2023;12:46:26;MM Solothurn;257;111;Tetley Engl. Breakfast;1;0.90;2.10
+04.11.2023;12:46:26;MM Solothurn;257;111;YOU Bio Happy Moment;1;0.96;2.24
+04.11.2023;12:46:26;MM Solothurn;257;111;Tea Time Hagebut-Hibis;1;0.42;0.98
+04.11.2023;12:46:26;MM Solothurn;257;111;MClass Hackfleisch;0.506;1.52;8.35
+04.11.2023;12:46:26;MM Solothurn;257;111;HM Regeneriersalz;1;0.00;1.10
+04.11.2023;12:46:26;MM Solothurn;257;111;Rusticobrötchen;1;0.00;1.40
+04.11.2023;12:46:26;MM Solothurn;257;111;CUM +3xPkt.Ges.Sort.;1;0;0
+04.11.2023;12:46:26;MM Solothurn;257;111;CUM10x Pkt Brotzöpfe;1;0;0
+04.11.2023;12:46:26;MM Solothurn;257;111;CUM10x Pkt Reiswaffeln;1;0;0
+28.10.2023;13:26:20;MM Solothurn;256;59;Trauben Uva Italia;0.913;0.91;2.10
+28.10.2023;13:26:20;MM Solothurn;256;59;Äpfel Boskoop;1.614;0.00;5.65
+28.10.2023;13:26:20;MM Solothurn;256;59;MBud Bananen;0.800;0.00;1.20
+28.10.2023;13:26:20;MM Solothurn;256;59;Granatapfel;1;0.00;1.50
+28.10.2023;13:26:20;MM Solothurn;256;59;Karotten;1;0.00;2.10
+28.10.2023;13:26:20;MM Solothurn;256;59;Rosenkohl;1;0.00;3.75
+28.10.2023;13:26:20;MM Solothurn;256;59;Olives provençales;1;0.00;4.50
+28.10.2023;13:26:20;MM Solothurn;256;59;Schmelzkäse Gruyère;1;0.00;3.20
+28.10.2023;13:26:20;MM Solothurn;256;59;MClass Kuchenteig;1;0.00;1.55
+28.10.2023;13:26:20;MM Solothurn;256;59;Vermicelles fertig;1;0.00;4.90
+28.10.2023;13:26:20;MM Solothurn;256;59;Stockhorn Alpenchili;0.166;0.00;5.30
+28.10.2023;13:26:20;MM Solothurn;256;59;Schoenr. Mutschli;0.163;0.00;4.40
+28.10.2023;13:26:20;MM Solothurn;256;59;Le Gruyère 120g;1;0.00;2.70
+28.10.2023;13:26:20;MM Solothurn;256;59;Excellence Vanille;2;0.00;2.10
+28.10.2023;13:26:20;MM Solothurn;256;59;Joghurt Johannisbeere;1;0.00;0.80
+28.10.2023;13:26:20;MM Solothurn;256;59;Elsa Joghurt Rhabarber;2;0.00;2.20
+28.10.2023;13:26:20;MM Solothurn;256;59;Valflora Vollrahm;1;0.00;4.40
+28.10.2023;13:26:20;MM Solothurn;256;59;Eier CH Respeggt;1;0.00;3.90
+28.10.2023;13:26:20;MM Solothurn;256;59;Bio Chnöpflimehl;1;0.00;3.60
+28.10.2023;13:26:20;MM Solothurn;256;59;Reiswaffeln Schokolade;1;0.00;1.20
+28.10.2023;13:26:20;MM Solothurn;256;59;Bio Roggenbrot;1;0.00;3.95
+28.10.2023;13:26:20;MM Solothurn;256;59;MBud Espresso Bohnen;1;0.00;6.00
+28.10.2023;13:26:20;MM Solothurn;256;59;Kastanien glasiert;1;0.00;5.50
+28.10.2023;13:26:20;MM Solothurn;256;59;Bratspeck;0.120;0.00;3.60
+28.10.2023;13:26:20;MM Solothurn;256;59;Speckwürfeli;1;0.00;3.30
+28.10.2023;13:26:20;MM Solothurn;256;59;Rehschnitzel;0.222;0.00;12.55
+28.10.2023;13:26:20;MM Solothurn;256;59;Steinpilz Terrine;1;0.00;5.95
+28.10.2023;13:26:20;MM Solothurn;256;59;JuraSel Tafelsalz Jod;1;0.00;0.90
+28.10.2023;13:26:20;MM Solothurn;256;59;MClass Thunfischfilet;0.198;0.00;12.40
+28.10.2023;13:26:20;MM Solothurn;256;59;MBud Spearmint 154g;2;0.00;5.80
+28.10.2023;13:26:20;MM Solothurn;256;59;Blévita Crunchies Tom.;1;0.00;2.80
+28.10.2023;13:26:20;MM Solothurn;256;59;Elmex Repair&Prev Duo;1;0.00;12.60
+28.10.2023;13:26:20;MM Solothurn;256;59;MPlus Zitrone 750ml;1;0.00;3.80
+28.10.2023;13:26:20;MM Solothurn;256;59;CUM10x Pkt Teige;1;0;0
+21.10.2023;13:44:12;MM Solothurn;257;140;Zwiebeln;1;0.00;2.20
+21.10.2023;13:44:12;MM Solothurn;257;140;Champignons braun;1;0.00;2.40
+21.10.2023;13:44:12;MM Solothurn;257;140;Bio Heidelbeeren;1;0.00;5.20
+21.10.2023;13:44:12;MM Solothurn;257;140;Trauben Uva Italia;0.818;0.00;2.70
+21.10.2023;13:44:12;MM Solothurn;257;140;Extra Kiwi Gold;3;0.00;4.20
+21.10.2023;13:44:12;MM Solothurn;257;140;MBud Bananen;0.800;0.00;1.20
+21.10.2023;13:44:12;MM Solothurn;257;140;Bio Cherrytomaten Mix;1;1.85;3.80
+21.10.2023;13:44:12;MM Solothurn;257;140;Bio Dinkelbrot;1;1.30;2.60
+21.10.2023;13:44:12;MM Solothurn;257;140;Knoblauch;1;0.00;0.50
+21.10.2023;13:44:12;MM Solothurn;257;140;Randen gedämpft;0.538;0.00;2.10
+21.10.2023;13:44:12;MM Solothurn;257;140;MClass Kuchenteig;2;0.00;3.10
+21.10.2023;13:44:12;MM Solothurn;257;140;Butterzopf;1;0.00;2.50
+21.10.2023;13:44:12;MM Solothurn;257;140;Excellence Vanille;2;0.00;2.10
+21.10.2023;13:44:12;MM Solothurn;257;140;MBud Crème Fraîche;1;0.00;6.25
+21.10.2023;13:44:12;MM Solothurn;257;140;Berg Vorzugsbutter;1;0.00;3.15
+21.10.2023;13:44:12;MM Solothurn;257;140;Reiswaffeln Schokolade;2;0.00;2.40
+21.10.2023;13:44:12;MM Solothurn;257;140;MClass Haferflöckli;1;0.00;1.50
+21.10.2023;13:44:12;MM Solothurn;257;140;SélecTrüffelbratwurst;1;1.95;4.00
+21.10.2023;13:44:12;MM Solothurn;257;140;Rindshuftsteak;0.251;3.89;15.45
+21.10.2023;13:44:12;MM Solothurn;257;140;Blévita Gruyère;1;0.00;3.95
+21.10.2023;13:44:12;MM Solothurn;257;140;MClass Safran gemahlen;2;0.00;7.20
+21.10.2023;13:44:12;MM Solothurn;257;140;MBud Spearmint 154g;1;0.00;2.90
+21.10.2023;13:44:12;MM Solothurn;257;140;Granatapfel;1;0.50;1.00
+21.10.2023;13:44:12;MM Solothurn;257;140;Acti Magnesium Zitrone;1;1.20;4.75
+21.10.2023;13:44:12;MM Solothurn;257;140;Kneipp Vit C + Zink;1;0.00;5.95
+21.10.2023;13:44:12;MM Solothurn;257;140;MBud Erbsen 800g;1;0.00;2.70
+21.10.2023;13:44:12;MM Solothurn;257;140;Bonus-Coupon 2x;1;0;0
+14.10.2023;13:28:38;MM Solothurn;256;36;MBud Bananen;0.900;0.00;1.35
+14.10.2023;13:28:38;MM Solothurn;256;36;Trauben Uva Italia;0.818;0.00;2.70
+14.10.2023;13:28:38;MM Solothurn;256;36;Gurke;1;0.45;0.95
+14.10.2023;13:28:38;MM Solothurn;256;36;Rotkabis;1.174;0.00;2.70
+14.10.2023;13:28:38;MM Solothurn;256;36;Schwarzenburgerli;1;0.00;5.90
+14.10.2023;13:28:38;MM Solothurn;256;36;MBud Halbweissbrot;1;0.00;1.20
+14.10.2023;13:28:38;MM Solothurn;256;36;Butterzopf;1;0.00;2.50
+14.10.2023;13:28:38;MM Solothurn;256;36;MClass Kuchenteig;2;0.00;3.10
+14.10.2023;13:28:38;MM Solothurn;256;36;MBud Cottage Cheese;1;0.00;4.10
+14.10.2023;13:28:38;MM Solothurn;256;36;Excellence Vanille;4;1.40;2.80
+14.10.2023;13:28:38;MM Solothurn;256;36;MBud Crème Fraîche;1;0.00;6.25
+14.10.2023;13:28:38;MM Solothurn;256;36;Eier CH Respeggt;1;0.00;3.90
+14.10.2023;13:28:38;MM Solothurn;256;36;Reiswaffeln Schokolade;2;0.00;2.40
+14.10.2023;13:28:38;MM Solothurn;256;36;Bio Speckwürfeli;1;0.00;4.10
+14.10.2023;13:28:38;MM Solothurn;256;36;Bio Steinpilze getrock;1;0.00;4.95
+14.10.2023;13:28:38;MM Solothurn;256;36;MBud Spearmint 154g;3;0.00;8.70
+14.10.2023;13:28:38;MM Solothurn;256;36;Bio Rispentomaten;0.535;1.40;2.85
+14.10.2023;13:28:38;MM Solothurn;256;36;Sterilisierungsglas;2;0.00;8.50
+14.10.2023;13:28:38;MM Solothurn;256;36;Bonus-Coupon 2x;1;0;0
+10.10.2023;16:53:26;M Passage Sihlquai;253;161;MClass Cottage Cheese;1;0.00;1.80
+10.10.2023;16:53:26;M Passage Sihlquai;253;161;Vollkorn-Landbrot;1;0.00;3.50
+30.09.2023;13:57:31;MM Solothurn;257;144;MBud Bananen;0.767;0.00;1.15
+30.09.2023;13:57:31;MM Solothurn;257;144;Extra Pflaumen rot;0.475;0.47;1.40
+30.09.2023;13:57:31;MM Solothurn;257;144;Broccoli;0.303;0.00;1.35
+30.09.2023;13:57:31;MM Solothurn;257;144;Chaumes 150g;0.153;0.00;5.75
+30.09.2023;13:57:31;MM Solothurn;257;144;Sbrinz gehobelt;1;0.00;4.85
+30.09.2023;13:57:31;MM Solothurn;257;144;Excellence Vanille;2;0.00;2.10
+30.09.2023;13:57:31;MM Solothurn;257;144;MClass Jog. Heidelbeer;2;0.00;1.30
+30.09.2023;13:57:31;MM Solothurn;257;144;Berg Vorzugsbutter;1;0.00;3.15
+30.09.2023;13:57:31;MM Solothurn;257;144;Eier CH Respeggt;1;0.00;3.90
+30.09.2023;13:57:31;MM Solothurn;257;144;MClass Kuchenteig;1;0.00;1.55
+30.09.2023;13:57:31;MM Solothurn;257;144;MBud Espresso Bohnen;1;0.00;6.00
+30.09.2023;13:57:31;MM Solothurn;257;144;Rinds-Bratwurst;1;0.00;4.90
+30.09.2023;13:57:31;MM Solothurn;257;144;LT Excel. Cacao Pur;1;0.00;4.95
+23.09.2023;13:19:06;MM Solothurn;257;131;Extra Feigen Solies;1;0.00;4.50
+23.09.2023;13:19:06;MM Solothurn;257;131;Sélec Traub.Uva Italia;1.325;2.19;5.10
+23.09.2023;13:19:06;MM Solothurn;257;131;MBud Bananen;0.933;0.00;1.40
+23.09.2023;13:19:06;MM Solothurn;257;131;Knoblauch;1;0.00;0.50
+23.09.2023;13:19:06;MM Solothurn;257;131;Tomaten Peretti;0.849;0.00;3.65
+23.09.2023;13:19:06;MM Solothurn;257;131;Butterzopf;1;0.00;2.50
+23.09.2023;13:19:06;MM Solothurn;257;131;Le Gruyère 120g;1;0.00;2.70
+23.09.2023;13:19:06;MM Solothurn;257;131;Bio Roggenbrot;1;0.00;3.95
+23.09.2023;13:19:06;MM Solothurn;257;131;MClass Kuchenteig;1;0.00;1.55
+23.09.2023;13:19:06;MM Solothurn;257;131;Elsa Waldbeere Joghurt;2;0.00;1.90
+23.09.2023;13:19:06;MM Solothurn;257;131;MBud Cottage Cheese;1;0.00;4.10
+23.09.2023;13:19:06;MM Solothurn;257;131;Joghurt Rhabarber Vani;2;0.00;1.60
+23.09.2023;13:19:06;MM Solothurn;257;131;MClass Haferflöckli;1;0.00;1.50
+23.09.2023;13:19:06;MM Solothurn;257;131;Rinds-Bratwurst;1;0.00;4.90
+23.09.2023;13:19:06;MM Solothurn;257;131;Olma Bratwurst;1;0.00;3.95
+23.09.2023;13:19:06;MM Solothurn;257;131;Schwarzwälder Schinken;0.121;0.00;6.40
+23.09.2023;13:19:06;MM Solothurn;257;131;Alnatura Cashewdrink;1;0.68;2.72
+23.09.2023;13:19:06;MM Solothurn;257;131;Alnatura Mandeldrink;1;0.70;2.65
+23.09.2023;13:19:06;MM Solothurn;257;131;IP K-Plaetzli;0.268;0.00;25.85
+23.09.2023;13:19:06;MM Solothurn;257;131;Feldschlösschen 6x50cl;1;0.00;11.50
+23.09.2023;13:19:06;MM Solothurn;257;131;Premium Vorratsdose;4;14.32;21.48
+23.09.2023;13:19:06;MM Solothurn;257;131;CUM +3xPkt.Ges.Sort.;1;0;0
+16.09.2023;13:45:35;MM Solothurn;257;121;Feigen blau;1;1.45;2.50
+16.09.2023;13:45:35;MM Solothurn;257;121;Nektarinen;0.474;0.00;1.85
+16.09.2023;13:45:35;MM Solothurn;257;121;MBud Bananen;0.700;0.00;1.05
+16.09.2023;13:45:35;MM Solothurn;257;121;Bio Äpfel Elstar;0.849;0.00;5.35
+16.09.2023;13:45:35;MM Solothurn;257;121;Peperoni rot;1.529;0.00;5.35
+16.09.2023;13:45:35;MM Solothurn;257;121;Schwarzenburgerli;2;0.00;11.80
+16.09.2023;13:45:35;MM Solothurn;257;121;M-Drink UHT Brik 12x1l;1;0.00;15.35
+16.09.2023;13:45:35;MM Solothurn;257;121;MBud Cottage Cheese;1;0.00;4.10
+16.09.2023;13:45:35;MM Solothurn;257;121;Grill mi Cheese Steak;1;0.00;5.70
+16.09.2023;13:45:35;MM Solothurn;257;121;Gazi Halloumi;1;0.00;4.95
+16.09.2023;13:45:35;MM Solothurn;257;121;Excellence Classic;2;0.42;1.68
+16.09.2023;13:45:35;MM Solothurn;257;121;Excellence Vanille;4;0.84;3.36
+16.09.2023;13:45:35;MM Solothurn;257;121;Sbrinz Bröckli;1;0.00;3.50
+16.09.2023;13:45:35;MM Solothurn;257;121;Roquefort Société;1;0.00;4.20
+16.09.2023;13:45:35;MM Solothurn;257;121;Berg Vorzugsbutter;1;0.00;3.15
+16.09.2023;13:45:35;MM Solothurn;257;121;Eier CH Respeggt;1;0.00;3.90
+16.09.2023;13:45:35;MM Solothurn;257;121;Reiswaffeln Schokolade;2;0.00;2.40
+16.09.2023;13:45:35;MM Solothurn;257;121;MClass Roggenvollkorn;1;0.00;1.80
+16.09.2023;13:45:35;MM Solothurn;257;121;MClass Kuchenteig;1;0.00;1.55
+16.09.2023;13:45:35;MM Solothurn;257;121;Rinds-Bratwurst;1;0.00;4.90
+16.09.2023;13:45:35;MM Solothurn;257;121;Feldschlösschen 6x50cl;1;0.00;11.50
+16.09.2023;13:45:35;MM Solothurn;257;121;Blévita Gruyère;1;0.00;3.95
+16.09.2023;13:45:35;MM Solothurn;257;121;Blévita mini Paprika;1;0.00;2.95
+16.09.2023;13:45:35;MM Solothurn;257;121;MBud Spearmint 154g;2;0.00;5.80
+16.09.2023;13:45:35;MM Solothurn;257;121;Zweifel Vaya Bean;1;0.00;3.95
+16.09.2023;13:45:35;MM Solothurn;257;121;Meridol Parodont Duo;1;0.00;8.95
+16.09.2023;13:45:35;MM Solothurn;257;121;CUM +3xPkt.Ges.Sort.;1;0;0
+02.09.2023;14:01:27;MM Solothurn;256;78;Heidelbeeren;1;0.00;5.90
+02.09.2023;14:01:27;MM Solothurn;256;78;Mango essreif;1;0.00;1.70
+02.09.2023;14:01:27;MM Solothurn;256;78;Nektarinen;0.744;0.00;2.90
+02.09.2023;14:01:27;MM Solothurn;256;78;Trauben Vittoria;0.529;0.00;1.85
+02.09.2023;14:01:27;MM Solothurn;256;78;MBud Bananen;0.700;0.00;1.05
+02.09.2023;14:01:27;MM Solothurn;256;78;Bio Äpfel Gravenst.;0.881;0.00;5.55
+02.09.2023;14:01:27;MM Solothurn;256;78;Peperoni gemischt;1;0.60;1.60
+02.09.2023;14:01:27;MM Solothurn;256;78;Bio Joghurt Vanille;4;0.00;3.80
+02.09.2023;14:01:27;MM Solothurn;256;78;Bio Joghurt Kirschen;2;0.00;1.80
+02.09.2023;14:01:27;MM Solothurn;256;78;Excellence Vanille;2;0.00;2.10
+02.09.2023;14:01:27;MM Solothurn;256;78;Elsa Joghurt Rhabarber;2;0.00;2.20
+02.09.2023;14:01:27;MM Solothurn;256;78;Sbrinz Bröckli;1;0.00;3.50
+02.09.2023;14:01:27;MM Solothurn;256;78;MClass Haferflöckli;1;0.00;1.50
+02.09.2023;14:01:27;MM Solothurn;256;78;Olma Bratwurst;1;0.00;3.95
+02.09.2023;14:01:27;MM Solothurn;256;78;Grill mi Cheese Steak;1;0.00;5.70
+02.09.2023;14:01:27;MM Solothurn;256;78;Pouletspiessli Orienta;0.242;0.00;8.85
+02.09.2023;14:01:27;MM Solothurn;256;78;Sélec Rindsfilet;0.140;0.00;15.95
+02.09.2023;14:01:27;MM Solothurn;256;78;LT Excel. Fleur de Sel;1;0.00;3.20
+02.09.2023;14:01:27;MM Solothurn;256;78;MBud Spearmint 154g;2;0.00;5.80
+02.09.2023;14:01:27;MM Solothurn;256;78;CIV Noir 65% 100g;1;0.00;2.65
+02.09.2023;14:01:27;MM Solothurn;256;78;Bonus-Coupon 2x;1;0;0
+02.09.2023;14:01:27;MM Solothurn;256;78;CUM10x Pkt Mangos, Papayas;1;0;0
+02.09.2023;14:01:27;MM Solothurn;256;78;CUM10x Pkt Elsa Joghurts;1;0;0
+02.09.2023;14:01:27;MM Solothurn;256;78;CUM10x Pkt Geflügel;1;0;0
+01.09.2023;11:01:20;MM Solothurn;252;15;Pouletschenkel 2 Stück;0.396;1.70;3.45
+01.09.2023;11:01:20;MM Solothurn;252;15;Bratspeck;0.125;0.00;3.75
+01.09.2023;11:01:20;MM Solothurn;252;15;Rinds-Bratwurst;1;0.00;4.90
+01.09.2023;11:01:20;MM Solothurn;252;15;Extra Feigen Solies;1;0.00;4.50
+01.09.2023;11:01:20;MM Solothurn;252;15;Bio Eichblattsalat rot;1;0.80;1.70
+01.09.2023;11:01:20;MM Solothurn;252;15;Karotten;1;0.70;1.40
+21.08.2023;14:29:20;MM Solothurn;257;152;Champignons braun;1;0.00;2.40
+21.08.2023;14:29:20;MM Solothurn;257;152;Pfirsich gelbfleischig;0.742;0.00;2.45
+21.08.2023;14:29:20;MM Solothurn;257;152;Aprikosen;0.261;0.00;1.55
+21.08.2023;14:29:20;MM Solothurn;257;152;MBud Bananen;0.900;0.00;1.35
+21.08.2023;14:29:20;MM Solothurn;257;152;Gurke;1;0.00;1.75
+21.08.2023;14:29:20;MM Solothurn;257;152;Peperoni gemischt;1;0.00;2.20
+21.08.2023;14:29:20;MM Solothurn;257;152;Stockhornmutschli;0.187;0.84;4.40
+21.08.2023;14:29:20;MM Solothurn;257;152;Schwarzenburgerli;1;0.00;5.90
+21.08.2023;14:29:20;MM Solothurn;257;152;Sbrinz Bröckli;1;0.00;3.50
+21.08.2023;14:29:20;MM Solothurn;257;152;Sélec Burrata;1;0.00;4.10
+21.08.2023;14:29:20;MM Solothurn;257;152;Alfredo Mozzarella;1;0.00;1.65
+21.08.2023;14:29:20;MM Solothurn;257;152;MBud Cottage Cheese;1;0.00;4.10
+21.08.2023;14:29:20;MM Solothurn;257;152;Bio Joghurt Vanille;4;0.00;3.80
+21.08.2023;14:29:20;MM Solothurn;257;152;Excellence Vanille;2;0.00;2.10
+21.08.2023;14:29:20;MM Solothurn;257;152;Excellence Classic;2;0.00;2.10
+21.08.2023;14:29:20;MM Solothurn;257;152;MClass Jog. Heidelbeer;2;0.00;1.30
+21.08.2023;14:29:20;MM Solothurn;257;152;Joghurt Johannisbeere;1;0.00;0.80
+21.08.2023;14:29:20;MM Solothurn;257;152;Berg Vorzugsbutter;1;0.00;3.15
+21.08.2023;14:29:20;MM Solothurn;257;152;Die Butter 250g;1;0.00;3.95
+21.08.2023;14:29:20;MM Solothurn;257;152;Eier CH Respeggt;1;0.00;3.90
+21.08.2023;14:29:20;MM Solothurn;257;152;Alnatura Beeren Müsli;1;0.00;5.30
+21.08.2023;14:29:20;MM Solothurn;257;152;Olma Bratwurst;1;2.00;5.90
+21.08.2023;14:29:20;MM Solothurn;257;152;Rinds-Bratwurst;1;1.60;3.30
+21.08.2023;14:29:20;MM Solothurn;257;152;Pouletspiessli Orienta;0.210;0.00;7.65
+21.08.2023;14:29:20;MM Solothurn;257;152;MClass Lamm Racks;0.467;4.44;23.35
+21.08.2023;14:29:20;MM Solothurn;257;152;Sirup Himbeer 75cl;1;0.00;3.70
+21.08.2023;14:29:20;MM Solothurn;257;152;Blévita mini Paprika;4;2.40;9.40
+21.08.2023;14:29:20;MM Solothurn;257;152;Blévita Gruyère;2;1.20;6.70
+21.08.2023;14:29:20;MM Solothurn;257;152;Emilio Carciofi 125g;1;0.00;3.50
+21.08.2023;14:29:20;MM Solothurn;257;152;HM Sup Ultra Spülglanz;1;0.00;5.50
+21.08.2023;14:29:20;MM Solothurn;257;152;Soft Comf.Recycling30x;1;7.95;11.90
+21.08.2023;14:29:20;MM Solothurn;257;152;Bonus-Coupon 2x;1;0;0
+09.08.2023;11:19:20;MM Solothurn;253;18;Aprikosen;0.329;0.00;2.60
+09.08.2023;11:19:20;MM Solothurn;253;18;Peperoni gemischt;1;0.00;1.85
+09.08.2023;11:19:20;MM Solothurn;253;18;Nektarinen;0.226;0.00;0.95
+09.08.2023;11:19:20;MM Solothurn;253;18;MClass Haferflöckli;1;0.00;1.50
+09.08.2023;11:19:20;MM Solothurn;253;18;MBud Espresso Bohnen;1;0.00;6.00
+09.08.2023;11:19:20;MM Solothurn;253;18;AdR Cervelas;1;0.85;1.75
+09.08.2023;11:19:20;MM Solothurn;253;18;Rinds-Bratwurst;1;0.00;4.90
+09.08.2023;11:19:20;MM Solothurn;253;18;Blévita mini Paprika;2;0.00;5.90
+09.08.2023;11:19:20;MM Solothurn;253;18;Extra Kirschen;1;2.80;5.70
+09.08.2023;11:19:20;MM Solothurn;253;18;Tangan Beutel N°2;1;0.00;2.95
+09.08.2023;11:19:20;MM Solothurn;253;18;Persil Discs Color 60;1;23.65;24.95
+09.08.2023;11:19:20;MM Solothurn;253;18;Tischbombe Maxi;1;11.25;3.70
+09.08.2023;11:19:20;MM Solothurn;253;18;Fahnengirlande;1;3.75;1.20
+09.08.2023;11:19:20;MM Solothurn;253;18;MBud Spearmint 154g;2;0.00;5.80
+09.08.2023;11:19:20;MM Solothurn;253;18;Bonus-Coupon 2x;1;0;0
+31.07.2023;14:37:05;MM Solothurn;257;150;Champignons braun;1;0.00;2.40
+31.07.2023;14:37:05;MM Solothurn;257;150;Aprikosen;0.481;0.00;3.80
+31.07.2023;14:37:05;MM Solothurn;257;150;MBud Bananen;0.800;0.00;1.20
+31.07.2023;14:37:05;MM Solothurn;257;150;Bio Joghurt Vanille;2;0.00;1.90
+31.07.2023;14:37:05;MM Solothurn;257;150;Excellence Vanille;2;0.00;2.10
+31.07.2023;14:37:05;MM Solothurn;257;150;Joghurt Rhabarber Vani;2;0.00;1.60
+31.07.2023;14:37:05;MM Solothurn;257;150;Sélec Burrata;1;0.85;3.25
+31.07.2023;14:37:05;MM Solothurn;257;150;Grill mi Cheese Steak;1;0.00;5.70
+31.07.2023;14:37:05;MM Solothurn;257;150;MClass Roggenvollkorn;1;0.00;1.80
+31.07.2023;14:37:05;MM Solothurn;257;150;MClass Kuchenteig;1;0.00;1.55
+31.07.2023;14:37:05;MM Solothurn;257;150;Rinds-Bratwurst;1;0.00;4.90
+31.07.2023;14:37:05;MM Solothurn;257;150;MBud Bratspeck;0.198;0.00;3.65
+31.07.2023;14:37:05;MM Solothurn;257;150;Sélec Rindsfilet;0.173;3.98;15.75
+31.07.2023;14:37:05;MM Solothurn;257;150;CUM +4xPkt. ges. Sort.;1;0;0
+22.07.2023;12:57:31;MM Solothurn;257;100;Bio Heidelbeeren;1;0.00;6.95
+22.07.2023;12:57:31;MM Solothurn;257;100;MBud Bananen;1.133;0.00;1.70
+22.07.2023;12:57:31;MM Solothurn;257;100;Aprikosen;1;0.00;4.95
+22.07.2023;12:57:31;MM Solothurn;257;100;Eier Freiland 6x53g+;1;1.25;2.50
+22.07.2023;12:57:31;MM Solothurn;257;100;Bio Nektarinen;0.779;1.01;4.05
+22.07.2023;12:57:31;MM Solothurn;257;100;Mischsalat 260g;1;0.00;2.20
+22.07.2023;12:57:31;MM Solothurn;257;100;Champignons braun;1;0.00;2.40
+22.07.2023;12:57:31;MM Solothurn;257;100;Bio Kräuterseitling;1;0.00;4.20
+22.07.2023;12:57:31;MM Solothurn;257;100;Butterzopf;1;0.00;2.50
+22.07.2023;12:57:31;MM Solothurn;257;100;Schoenr. Mutschli;0.180;0.00;4.85
+22.07.2023;12:57:31;MM Solothurn;257;100;Eiger Bergsteiger;0.188;0.00;6.50
+22.07.2023;12:57:31;MM Solothurn;257;100;Schmelzkäse Gruyère;1;0.00;3.20
+22.07.2023;12:57:31;MM Solothurn;257;100;Sbrinz Bröckli;1;0.00;3.50
+22.07.2023;12:57:31;MM Solothurn;257;100;Sélec Burrata;1;0.85;3.25
+22.07.2023;12:57:31;MM Solothurn;257;100;Le Gruyère 120g;1;0.00;2.70
+22.07.2023;12:57:31;MM Solothurn;257;100;Joghurt Johannisbeere;2;0.00;1.60
+22.07.2023;12:57:31;MM Solothurn;257;100;Elsa Waldbeere Joghurt;2;0.00;1.90
+22.07.2023;12:57:31;MM Solothurn;257;100;Emmentaler 200g;0.216;0.00;6.25
+22.07.2023;12:57:31;MM Solothurn;257;100;Berg Vorzugsbutter;1;0.00;3.15
+22.07.2023;12:57:31;MM Solothurn;257;100;Vanillezucker 4x10g;1;0.00;3.95
+22.07.2023;12:57:31;MM Solothurn;257;100;Bio Ahornsirup;1;0.00;6.20
+22.07.2023;12:57:31;MM Solothurn;257;100;MClass Kuchenteig;1;0.00;1.55
+22.07.2023;12:57:31;MM Solothurn;257;100;Blévita Gruyère;1;1.19;2.76
+22.07.2023;12:57:31;MM Solothurn;257;100;MClass Haferflöckli;1;0.00;1.50
+22.07.2023;12:57:31;MM Solothurn;257;100;Rinds-Bratwurst;1;0.00;4.90
+22.07.2023;12:57:31;MM Solothurn;257;100;Olma Bratwurst;1;0.00;3.95
+22.07.2023;12:57:31;MM Solothurn;257;100;MClass Kaninchen;0.369;1.95;3.95
+22.07.2023;12:57:31;MM Solothurn;257;100;Pouletspiessli Orienta;0.256;0.00;9.35
+22.07.2023;12:57:31;MM Solothurn;257;100;Feldschlösschen 6x50cl;1;0.00;11.50
+22.07.2023;12:57:31;MM Solothurn;257;100;Blévita Flammkuchen;1;1.19;2.76
+22.07.2023;12:57:31;MM Solothurn;257;100;MBud Spearmint 154g;2;0.00;5.80
+22.07.2023;12:57:31;MM Solothurn;257;100;LT Excel. Cacao Pur;1;0.00;4.95
+22.07.2023;12:57:31;MM Solothurn;257;100;CUM +3xPkt.Ges.Sort.;1;0;0
+22.07.2023;12:57:31;MM Solothurn;257;100;CUM10x Pkt Patissier Sort.;1;0;0
+15.07.2023;13:04:47;MM Solothurn;251;99;Bio Heidelbeeren;0.533;0.00;9.60
+15.07.2023;13:04:47;MM Solothurn;251;99;Extra Kirschen;0.521;1.56;6.25
+15.07.2023;13:04:47;MM Solothurn;251;99;Aprikosen;1;0.00;4.95
+15.07.2023;13:04:47;MM Solothurn;251;99;Party Fava Pizza;1;1.30;2.65
+15.07.2023;13:04:47;MM Solothurn;251;99;Party Fava Chili;1;1.30;2.65
+15.07.2023;13:04:47;MM Solothurn;251;99;Kart.mehligkochend;1;0.00;1.60
+15.07.2023;13:04:47;MM Solothurn;251;99;MBud Bananen;1.033;0.00;1.55
+15.07.2023;13:04:47;MM Solothurn;251;99;Cherrytomaten am Zweig;1;0.00;4.95
+15.07.2023;13:04:47;MM Solothurn;251;99;Peperoni gemischt;1;0.70;1.60
+15.07.2023;13:04:47;MM Solothurn;251;99;Gurke;1;0.00;1.90
+15.07.2023;13:04:47;MM Solothurn;251;99;Bio Basilikum;1;0.00;2.00
+15.07.2023;13:04:47;MM Solothurn;251;99;Champignons braun;1;0.00;2.40
+15.07.2023;13:04:47;MM Solothurn;251;99;Champignons braun;0.235;0.00;2.35
+15.07.2023;13:04:47;MM Solothurn;251;99;Schweizer Huus Chäsli;1;0.00;3.90
+15.07.2023;13:04:47;MM Solothurn;251;99;M-Drink UHT Brik 12x1l;1;0.00;16.30
+15.07.2023;13:04:47;MM Solothurn;251;99;Taverna Halloumi 250g;1;0.00;4.85
+15.07.2023;13:04:47;MM Solothurn;251;99;Le Gruyère 120g;1;0.00;2.70
+15.07.2023;13:04:47;MM Solothurn;251;99;Sélec Burrata;2;0.00;8.20
+15.07.2023;13:04:47;MM Solothurn;251;99;MBud Cottage Cheese;1;0.00;4.10
+15.07.2023;13:04:47;MM Solothurn;251;99;MBud Magerquark 500g;1;0.00;1.25
+15.07.2023;13:04:47;MM Solothurn;251;99;Bio Joghurt Vanille;4;0.00;3.80
+15.07.2023;13:04:47;MM Solothurn;251;99;Excellence Vanille;2;0.00;2.10
+15.07.2023;13:04:47;MM Solothurn;251;99;Excellence BananaSplit;2;0.00;2.10
+15.07.2023;13:04:47;MM Solothurn;251;99;Valflora Vollrahm;1;0.00;4.40
+15.07.2023;13:04:47;MM Solothurn;251;99;Eier CH Respeggt;1;0.00;3.90
+15.07.2023;13:04:47;MM Solothurn;251;99;MClass Kuchenteig;1;0.00;1.55
+15.07.2023;13:04:47;MM Solothurn;251;99;MClass mit 10% Butter;1;0.00;5.70
+15.07.2023;13:04:47;MM Solothurn;251;99;MClass Weissweinessig;1;0.00;1.55
+15.07.2023;13:04:47;MM Solothurn;251;99;MBud Espresso Bohnen;1;0.00;6.00
+15.07.2023;13:04:47;MM Solothurn;251;99;Pouletoberschenkel;0.513;3.33;4.10
+15.07.2023;13:04:47;MM Solothurn;251;99;Olma Bratwurst;1;0.00;3.95
+15.07.2023;13:04:47;MM Solothurn;251;99;Rinds-Bratwurst;1;0.00;4.90
+15.07.2023;13:04:47;MM Solothurn;251;99;Zweifel Vaya Bean;1;0.00;3.95
+15.07.2023;13:04:47;MM Solothurn;251;99;Blévita mini Paprika;2;0.00;5.90
+15.07.2023;13:04:47;MM Solothurn;251;99;Blévita Mini Pep. Käse;1;0.00;2.95
+15.07.2023;13:04:47;MM Solothurn;251;99;Ananas;1;0.85;1.70
+15.07.2023;13:04:47;MM Solothurn;251;99;Bonus-Coupon 2x;1;0;0
+11.07.2023;09:59:12;ALN Passage Sihlquai;255;100;Alnatura Ahornsirup A;1;0.00;6.70
+08.07.2023;13:33:02;MM Solothurn;256;61;Bio Heidelbeeren;0.433;0.00;7.80
+08.07.2023;13:33:02;MM Solothurn;256;61;Pfirsiche flach;1.102;2.20;3.25
+08.07.2023;13:33:02;MM Solothurn;256;61;Aprikosen;0.580;0.00;4.35
+08.07.2023;13:33:02;MM Solothurn;256;61;Mango essreif;1;0.00;1.50
+08.07.2023;13:33:02;MM Solothurn;256;61;Bananen;0.760;0.00;1.90
+08.07.2023;13:33:02;MM Solothurn;256;61;Karotten;0.479;0.00;1.15
+08.07.2023;13:33:02;MM Solothurn;256;61;Frühkartoffeln;0.500;0.00;1.10
+08.07.2023;13:33:02;MM Solothurn;256;61;Cherrytomaten am Zweig;1;0.00;4.95
+08.07.2023;13:33:02;MM Solothurn;256;61;Champignons braun;1;0.00;2.40
+08.07.2023;13:33:02;MM Solothurn;256;61;Butterzopf;1;0.00;2.50
+08.07.2023;13:33:02;MM Solothurn;256;61;MClass Roggenvollkorn;1;0.00;1.80
+08.07.2023;13:33:02;MM Solothurn;256;61;Excellence Vanille;2;0.42;1.68
+08.07.2023;13:33:02;MM Solothurn;256;61;Excellence Kirsche;2;0.42;1.68
+08.07.2023;13:33:02;MM Solothurn;256;61;Excellence Classic;2;0.42;1.68
+08.07.2023;13:33:02;MM Solothurn;256;61;Schmelzkäse Gruyère;1;0.00;3.20
+08.07.2023;13:33:02;MM Solothurn;256;61;Gazi Halloumi;1;0.00;4.95
+08.07.2023;13:33:02;MM Solothurn;256;61;Sélec Burrata;1;0.00;4.10
+08.07.2023;13:33:02;MM Solothurn;256;61;MBud Magerquark 500g;1;0.00;1.25
+08.07.2023;13:33:02;MM Solothurn;256;61;Joghurt Rhabarber Vani;2;0.00;1.60
+08.07.2023;13:33:02;MM Solothurn;256;61;Berg Vorzugsbutter;1;0.00;3.15
+08.07.2023;13:33:02;MM Solothurn;256;61;Eier CH Respeggt;1;0.00;3.90
+08.07.2023;13:33:02;MM Solothurn;256;61;Thomy Sauce Tartare;1;0.00;3.40
+08.07.2023;13:33:02;MM Solothurn;256;61;Optiga Poulet Schenkel;0.388;1.65;3.40
+08.07.2023;13:33:02;MM Solothurn;256;61;Rinds-Bratwurst;1;0.00;4.90
+08.07.2023;13:33:02;MM Solothurn;256;61;Olma Bratwurst;1;0.00;3.95
+08.07.2023;13:33:02;MM Solothurn;256;61;MClass Rindshohrücken;0.212;2.76;10.60
+08.07.2023;13:33:02;MM Solothurn;256;61;Pouletspiessli Orienta;0.211;1.16;6.55
+08.07.2023;13:33:02;MM Solothurn;256;61;Thomy Senf scharf;1;0.00;1.95
+08.07.2023;13:33:02;MM Solothurn;256;61;Feldschlösschen 6x50cl;1;0.00;11.50
+08.07.2023;13:33:02;MM Solothurn;256;61;Emilio Carciofi 125g;1;0.00;3.50
+08.07.2023;13:33:02;MM Solothurn;256;61;Zweifel Vaya Bean;1;0.00;3.95
+08.07.2023;13:33:02;MM Solothurn;256;61;IPS Blattspinat 800g;1;0.00;3.80
+08.07.2023;13:33:02;MM Solothurn;256;61;Wagyu Burger 2x125g;1;0.00;11.50
+08.07.2023;13:33:02;MM Solothurn;256;61;Wischmop Viscose;1;8.48;8.47
+08.07.2023;13:33:02;MM Solothurn;256;61;Depot retour Zylinder;1;0.00;-10.00
+08.07.2023;13:33:02;MM Solothurn;256;61;Bonus-Coupon 2x;1;0;0
+08.07.2023;12:20:08;MMM Zürich City;257;36;Aproz Classic 50cl;1;0.00;0.70
+08.07.2023;12:20:08;MMM Zürich City;257;36;MClass Fleischkäse;0.091;0.00;1.60
+08.07.2023;12:20:08;MMM Zürich City;257;36;Tangan Formen N°48;3;0.00;7.35
+08.07.2023;12:20:08;MMM Zürich City;257;36;Salatsieb;3;0.00;8.85
+08.07.2023;12:20:08;MMM Zürich City;257;36;Butterweggli;2;0.00;1.40
+01.07.2023;14:01:49;MMM Langendorf;259;64;Holz-Zahnstocher;1;0.00;1.95
+01.07.2023;14:01:49;MMM Langendorf;259;64;mini Springform;3;0.00;23.85
+01.07.2023;14:01:49;MMM Langendorf;259;64;Sélec Mini Burrata;1;0.00;5.65
+01.07.2023;14:01:49;MMM Langendorf;259;64;Bonus-Coupon 2x;1;0;0
+01.07.2023;12:55:06;MM Solothurn;257;123;Bio Heidelbeeren;0.433;0.00;7.80
+01.07.2023;12:55:06;MM Solothurn;257;123;Aprikosen;0.679;0.00;3.60
+01.07.2023;12:55:06;MM Solothurn;257;123;Mango essreif;1;0.00;1.50
+01.07.2023;12:55:06;MM Solothurn;257;123;Pfirsiche flach;0.687;0.00;3.40
+01.07.2023;12:55:06;MM Solothurn;257;123;MBud Bananen;0.767;0.40;0.75
+01.07.2023;12:55:06;MM Solothurn;257;123;Olma Bratwurst;1;0.00;3.95
+01.07.2023;12:55:06;MM Solothurn;257;123;Rinds-Bratwurst;1;0.00;4.90
+01.07.2023;12:55:06;MM Solothurn;257;123;Kalbsplätzli;0.147;0.00;12.05
+01.07.2023;12:55:06;MM Solothurn;257;123;Kalbsplätzli;0.085;0.00;6.95
+01.07.2023;12:55:06;MM Solothurn;257;123;MBud Bratspeck;0.198;0.00;3.65
+01.07.2023;12:55:06;MM Solothurn;257;123;Cherrytomaten am Zweig;1;1.00;3.95
+01.07.2023;12:55:06;MM Solothurn;257;123;Champignons braun;1;0.00;2.40
+01.07.2023;12:55:06;MM Solothurn;257;123;Butterweggli;1;0.00;0.75
+01.07.2023;12:55:06;MM Solothurn;257;123;Saint Agur;1;0.00;3.80
+01.07.2023;12:55:06;MM Solothurn;257;123;Bio Joghurt Vanille;4;0.00;3.80
+01.07.2023;12:55:06;MM Solothurn;257;123;Sbrinz Bröckli;1;0.00;3.50
+01.07.2023;12:55:06;MM Solothurn;257;123;Excellence Vanille;2;0.00;2.10
+01.07.2023;12:55:06;MM Solothurn;257;123;MClass Kuchenteig;1;0.00;1.55
+01.07.2023;12:55:06;MM Solothurn;257;123;Ofenfleischkäse;0.135;0.00;3.50
+01.07.2023;12:55:06;MM Solothurn;257;123;Zweifel Vaya Bean;1;0.00;3.95
+01.07.2023;12:55:06;MM Solothurn;257;123;HM Sup Ultra Spülglanz;1;0.00;5.50
+01.07.2023;12:55:06;MM Solothurn;257;123;CUM +3xPkt.Ges.Sort.;1;0;0
+01.07.2023;12:55:06;MM Solothurn;257;123;CUM10x Pkt Pfirsiche;1;0;0
+24.06.2023;13:07:20;MM Solothurn;257;120;Bananen;0.640;0.00;1.60
+24.06.2023;13:07:20;MM Solothurn;257;120;Aprikosen;0.528;0.00;2.80
+24.06.2023;13:07:20;MM Solothurn;257;120;Pfirsiche flach;0.717;0.00;3.55
+24.06.2023;13:07:20;MM Solothurn;257;120;Äpfel Braeburn;0.400;0.00;1.40
+24.06.2023;13:07:20;MM Solothurn;257;120;Cherrytomaten am Zweig;1;0.00;4.95
+24.06.2023;13:07:20;MM Solothurn;257;120;Zucchetti;0.443;0.44;1.55
+24.06.2023;13:07:20;MM Solothurn;257;120;Butterzopf;1;0.00;2.90
+24.06.2023;13:07:20;MM Solothurn;257;120;Schwarzenburgerli;1;0.00;5.90
+24.06.2023;13:07:20;MM Solothurn;257;120;Grill mi Cheese Steak;1;0.00;5.70
+24.06.2023;13:07:20;MM Solothurn;257;120;Taverna Halloumi 250g;1;0.00;4.85
+24.06.2023;13:07:20;MM Solothurn;257;120;Sélec Burrata;1;0.00;4.10
+24.06.2023;13:07:20;MM Solothurn;257;120;MBud Cottage Cheese;1;0.00;4.10
+24.06.2023;13:07:20;MM Solothurn;257;120;Excellence Vanille;2;0.00;2.10
+24.06.2023;13:07:20;MM Solothurn;257;120;Elsa Waldbeere Joghurt;2;0.00;1.90
+24.06.2023;13:07:20;MM Solothurn;257;120;Excellence Kirsche;2;0.00;2.10
+24.06.2023;13:07:20;MM Solothurn;257;120;Joghurt Johannisbeere;1;0.00;0.80
+24.06.2023;13:07:20;MM Solothurn;257;120;Berg Vorzugsbutter;1;0.00;3.15
+24.06.2023;13:07:20;MM Solothurn;257;120;Vanillezucker 4x10g;1;0.00;3.95
+24.06.2023;13:07:20;MM Solothurn;257;120;MClass Kuchenteig;1;0.00;1.55
+24.06.2023;13:07:20;MM Solothurn;257;120;MClass Haferflöckli;1;0.00;1.50
+24.06.2023;13:07:20;MM Solothurn;257;120;MBud Espresso Bohnen;1;0.00;6.00
+24.06.2023;13:07:20;MM Solothurn;257;120;Sélec Aceto Balsamico;1;0.00;18.95
+24.06.2023;13:07:20;MM Solothurn;257;120;Mayonnaise française;1;0.00;2.95
+24.06.2023;13:07:20;MM Solothurn;257;120;Bio Senf grobkörnig;1;0.00;2.30
+24.06.2023;13:07:20;MM Solothurn;257;120;MClass Thunfischfilet;0.232;6.75;7.75
+24.06.2023;13:07:20;MM Solothurn;257;120;Rinds-Bratwurst;1;0.00;4.90
+24.06.2023;13:07:20;MM Solothurn;257;120;Rindsfilet;0.174;2.53;13.85
+24.06.2023;13:07:20;MM Solothurn;257;120;Bio Kräuter ital.;1;0.00;1.80
+24.06.2023;13:07:20;MM Solothurn;257;120;Non 33cl;1;0.30;0.90
+24.06.2023;13:07:20;MM Solothurn;257;120;NON IPA 33cl;1;0.49;1.46
+24.06.2023;13:07:20;MM Solothurn;257;120;Brooklyn Special Effec;1;0.68;2.02
+24.06.2023;13:07:20;MM Solothurn;257;120;MBud Spearmint 154g;2;0.00;5.80
+24.06.2023;13:07:20;MM Solothurn;257;120;Zweifel Vaya Bean;1;0.00;3.95
+24.06.2023;13:07:20;MM Solothurn;257;120;Fairtrade Limetten;1;0.20;0.35
+24.06.2023;13:07:20;MM Solothurn;257;120;Fenchel;0.393;0.00;1.75
+24.06.2023;13:07:20;MM Solothurn;257;120;Bonus-Coupon 2x;1;0;0
+22.06.2023;19:53:52;M Passage Sihlquai;251;360;Bio Vollkornhaferflöck;1;0.00;1.30
+10.06.2023;14:14:41;MM Solothurn;255;48;Knoblauch;1;0.00;0.50
+10.06.2023;14:14:41;MM Solothurn;255;48;Zwiebeln;1;0.00;1.75
+10.06.2023;14:14:41;MM Solothurn;255;48;Gurke;1;0.00;1.95
+10.06.2023;14:14:41;MM Solothurn;255;48;Rhabarber;0.400;0.00;3.00
+10.06.2023;14:14:41;MM Solothurn;255;48;Bio Heidelbeeren;0.222;0.00;4.00
+10.06.2023;14:14:41;MM Solothurn;255;48;MBud Cherrytomaten;1;0.00;2.20
+10.06.2023;14:14:41;MM Solothurn;255;48;Pfirsiche flach;0.538;0.00;2.85
+10.06.2023;14:14:41;MM Solothurn;255;48;Spargeln grün;1;0.00;7.75
+10.06.2023;14:14:41;MM Solothurn;255;48;Zucchetti;0.544;0.00;2.45
+10.06.2023;14:14:41;MM Solothurn;255;48;Butterzopf;1;0.00;2.90
+10.06.2023;14:14:41;MM Solothurn;255;48;Schoenr. Mutschli;0.161;0.00;4.35
+10.06.2023;14:14:41;MM Solothurn;255;48;Gazi Halloumi;1;0.00;4.95
+10.06.2023;14:14:41;MM Solothurn;255;48;Joghurt Johannisbeere;2;0.00;1.60
+10.06.2023;14:14:41;MM Solothurn;255;48;Alfredo Mozzarella;1;0.00;1.65
+10.06.2023;14:14:41;MM Solothurn;255;48;Sélec Burrata;1;0.00;4.10
+10.06.2023;14:14:41;MM Solothurn;255;48;MBud Cottage Cheese;1;0.00;4.10
+10.06.2023;14:14:41;MM Solothurn;255;48;Excellence Vanille;2;0.00;2.10
+10.06.2023;14:14:41;MM Solothurn;255;48;MBud Magerquark 500g;1;0.00;1.25
+10.06.2023;14:14:41;MM Solothurn;255;48;Emilio Grana Padano;0.267;1.07;5.60
+10.06.2023;14:14:41;MM Solothurn;255;48;Sbrinz Bröckli;1;0.00;3.50
+10.06.2023;14:14:41;MM Solothurn;255;48;Berg Vorzugsbutter;1;0.00;3.15
+10.06.2023;14:14:41;MM Solothurn;255;48;Eier CH Respeggt;1;0.00;3.90
+10.06.2023;14:14:41;MM Solothurn;255;48;Extra Aprikosen;0.411;0.00;3.10
+10.06.2023;14:14:41;MM Solothurn;255;48;Wildbachkäse;0.175;0.00;4.65
+10.06.2023;14:14:41;MM Solothurn;255;48;Le Gruyère Surchoix;0.150;0.75;2.70
+10.06.2023;14:14:41;MM Solothurn;255;48;MClass Kuchenteig;1;0.00;1.55
+10.06.2023;14:14:41;MM Solothurn;255;48;MBud Mandeln;1;0.00;3.00
+10.06.2023;14:14:41;MM Solothurn;255;48;Reiswaffeln Schokolade;2;0.00;2.40
+10.06.2023;14:14:41;MM Solothurn;255;48;Sun Queen Cashewnüsse;1;1.50;5.80
+10.06.2023;14:14:41;MM Solothurn;255;48;Olma Bratwurst;1;0.00;3.95
+10.06.2023;14:14:41;MM Solothurn;255;48;Kalbsbratwurst;1;0.00;4.95
+10.06.2023;14:14:41;MM Solothurn;255;48;Schwarzwälder Schinken;0.121;0.00;6.15
+10.06.2023;14:14:41;MM Solothurn;255;48;MClass Lamm Racks;0.340;3.23;17.00
+10.06.2023;14:14:41;MM Solothurn;255;48;Pfeffer schwar ganz;1;0.00;2.75
+10.06.2023;14:14:41;MM Solothurn;255;48;Pouletspiessli Orienta;0.241;0.00;9.05
+10.06.2023;14:14:41;MM Solothurn;255;48;Fever Tree Raspberry;1;1.95;5.85
+10.06.2023;14:14:41;MM Solothurn;255;48;Fever Tree Mediterrane;2;3.90;11.70
+10.06.2023;14:14:41;MM Solothurn;255;48;Emilio Pomo. secchi;1;0.00;3.50
+10.06.2023;14:14:41;MM Solothurn;255;48;MBud Spearmint 154g;2;0.00;5.80
+10.06.2023;14:14:41;MM Solothurn;255;48;I AM Soap Atlantic NFB;2;3.10;9.90
+10.06.2023;14:14:41;MM Solothurn;255;48;Bio Fairtrade Bananen;0.831;0.00;2.45
+10.06.2023;14:14:41;MM Solothurn;255;48;Bonus-Coupon 2x;1;0;0
+10.06.2023;14:14:41;MM Solothurn;255;48;CUM10x Pkt Zuchetti;1;0;0
+03.06.2023;13:53:43;MM Solothurn;257;147;Erdbeeren;1;1.75;5.20
+03.06.2023;13:53:43;MM Solothurn;257;147;Cherrytomaten am Zweig;1;1.20;2.75
+03.06.2023;13:53:43;MM Solothurn;257;147;Bio Spargeln grün;1;0.00;6.95
+03.06.2023;13:53:43;MM Solothurn;257;147;Rhabarber;0.500;0.00;4.15
+03.06.2023;13:53:43;MM Solothurn;257;147;Bio Heidelbeeren;0.313;0.00;6.25
+03.06.2023;13:53:43;MM Solothurn;257;147;Pfirsiche flach;0.496;0.00;2.95
+03.06.2023;13:53:43;MM Solothurn;257;147;MBud Zitronen;1;0.00;2.40
+03.06.2023;13:53:43;MM Solothurn;257;147;Bananen;0.680;0.00;1.70
+03.06.2023;13:53:43;MM Solothurn;257;147;Kart.festk.neue Ernte;0.477;0.00;1.05
+03.06.2023;13:53:43;MM Solothurn;257;147;Gurke;1;0.00;1.95
+03.06.2023;13:53:43;MM Solothurn;257;147;Radieschen;1;0.00;1.60
+03.06.2023;13:53:43;MM Solothurn;257;147;Zucchetti;0.222;0.00;1.00
+03.06.2023;13:53:43;MM Solothurn;257;147;MClass Kuchenteig;1;0.00;1.55
+03.06.2023;13:53:43;MM Solothurn;257;147;MClass Roggenvollkorn;1;0.00;1.80
+03.06.2023;13:53:43;MM Solothurn;257;147;Bio Brie;0.152;0.00;4.80
+03.06.2023;13:53:43;MM Solothurn;257;147;Bio Champignons weiss;0.192;1.47;1.70
+03.06.2023;13:53:43;MM Solothurn;257;147;Bio Joghurt Vanille;2;0.00;1.90
+03.06.2023;13:53:43;MM Solothurn;257;147;Excellence Vanille;2;0.00;2.10
+03.06.2023;13:53:43;MM Solothurn;257;147;MBud Cottage Cheese;1;0.00;4.10
+03.06.2023;13:53:43;MM Solothurn;257;147;Joghurt Rhabarber Vani;2;0.00;1.60
+03.06.2023;13:53:43;MM Solothurn;257;147;MClass Jog. Heidelbeer;2;0.00;1.30
+03.06.2023;13:53:43;MM Solothurn;257;147;Alfredo Mozzarella;1;0.00;1.65
+03.06.2023;13:53:43;MM Solothurn;257;147;Emmentaler mild;0.281;0.70;3.80
+03.06.2023;13:53:43;MM Solothurn;257;147;Eier CH Respeggt;1;0.00;3.90
+03.06.2023;13:53:43;MM Solothurn;257;147;MClass Rindsfilet BA;0.274;0.00;17.80
+03.06.2023;13:53:43;MM Solothurn;257;147;Party Pistazien 750g;1;0.00;9.35
+03.06.2023;13:53:43;MM Solothurn;257;147;Grill mi Schnecken;1;0.00;4.95
+03.06.2023;13:53:43;MM Solothurn;257;147;Heinz Ketchup 500ml;1;0.00;3.80
+03.06.2023;13:53:43;MM Solothurn;257;147;Blévita Gruyère;2;1.20;6.70
+03.06.2023;13:53:43;MM Solothurn;257;147;Fever Tree Mediterrane;1;0.00;7.80
+03.06.2023;13:53:43;MM Solothurn;257;147;Blévita mini Paprika;2;1.20;4.70
+03.06.2023;13:53:43;MM Solothurn;257;147;Blévita Rice Mohn;1;0.60;3.60
+03.06.2023;13:53:43;MM Solothurn;257;147;Blévita Choco Ruby;1;0.60;4.20
+03.06.2023;13:53:43;MM Solothurn;257;147;LT Excellence 85% 100g;1;0.64;2.56
+03.06.2023;13:53:43;MM Solothurn;257;147;LT Excel. Cacao Pur;1;0.99;3.96
+03.06.2023;13:53:43;MM Solothurn;257;147;MBud Spearmint 154g;1;0.00;2.90
+03.06.2023;13:53:43;MM Solothurn;257;147;MBud Pflaster Sensitiv;1;0.00;0.85
+03.06.2023;13:53:43;MM Solothurn;257;147;Bio Wattestaebchen 200;1;0.00;1.85
+03.06.2023;13:53:43;MM Solothurn;257;147;Acti Magnesium Zitrone;1;0.00;5.95
+03.06.2023;13:53:43;MM Solothurn;257;147;Bonus-Coupon 2x;1;0;0
+03.06.2023;13:53:43;MM Solothurn;257;147;CUM20x Pkt Alfredo;1;0;0
+03.06.2023;13:53:43;MM Solothurn;257;147;CUM20x Pkt Emmentaler Schnittk;1;0;0
+27.05.2023;13:09:06;MM Solothurn;255;59;Bio Heidelbeeren;0.300;0.00;6.00
+27.05.2023;13:09:06;MM Solothurn;255;59;Mango essreif;1;0.00;1.50
+27.05.2023;13:09:06;MM Solothurn;255;59;Erdbeeren;2;1.50;6.40
+27.05.2023;13:09:06;MM Solothurn;255;59;Rhabarber;0.542;0.00;4.50
+27.05.2023;13:09:06;MM Solothurn;255;59;Pfirsiche flach;0.462;0.00;2.75
+27.05.2023;13:09:06;MM Solothurn;255;59;Äpfel Braeburn;0.814;0.00;2.85
+27.05.2023;13:09:06;MM Solothurn;255;59;Spargeln grün;1;0.00;9.50
+27.05.2023;13:09:06;MM Solothurn;255;59;Blumenkohl;0.849;0.00;4.50
+27.05.2023;13:09:06;MM Solothurn;255;59;Fenchel;0.737;0.00;3.65
+27.05.2023;13:09:06;MM Solothurn;255;59;Kopfsalat rot;1;0.70;1.50
+27.05.2023;13:09:06;MM Solothurn;255;59;Radieschen;1;0.00;1.60
+27.05.2023;13:09:06;MM Solothurn;255;59;Tomaten Aromatico;1;0.00;3.95
+27.05.2023;13:09:06;MM Solothurn;255;59;Champignons braun;1;0.00;2.40
+27.05.2023;13:09:06;MM Solothurn;255;59;Butterzopf;1;0.00;2.90
+27.05.2023;13:09:06;MM Solothurn;255;59;Gstaader Mutschli;0.194;0.87;4.55
+27.05.2023;13:09:06;MM Solothurn;255;59;Frühlingskäse;0.183;0.00;5.50
+27.05.2023;13:09:06;MM Solothurn;255;59;MBud Cottage Cheese;1;0.00;4.10
+27.05.2023;13:09:06;MM Solothurn;255;59;Bio Joghurt Vanille;4;0.00;3.80
+27.05.2023;13:09:06;MM Solothurn;255;59;Excellence Classic;2;0.00;2.10
+27.05.2023;13:09:06;MM Solothurn;255;59;Excellence Vanille;2;0.00;2.10
+27.05.2023;13:09:06;MM Solothurn;255;59;MBud Magerquark 500g;1;0.00;1.25
+27.05.2023;13:09:06;MM Solothurn;255;59;Elsa Waldbeere Joghurt;2;0.00;1.90
+27.05.2023;13:09:06;MM Solothurn;255;59;Joghurt Johannisbeere;1;0.00;0.80
+27.05.2023;13:09:06;MM Solothurn;255;59;Berg Vorzugsbutter;1;0.00;3.15
+27.05.2023;13:09:06;MM Solothurn;255;59;Eier CH Respeggt;1;0.00;3.90
+27.05.2023;13:09:06;MM Solothurn;255;59;Reiswaffeln Schokolade;1;0.00;1.20
+27.05.2023;13:09:06;MM Solothurn;255;59;MClass Kuchenteig;1;0.00;1.55
+27.05.2023;13:09:06;MM Solothurn;255;59;MClass Haferflöckli;1;0.00;1.50
+27.05.2023;13:09:06;MM Solothurn;255;59;Bio Leinsamen;1;0.00;2.45
+27.05.2023;13:09:06;MM Solothurn;255;59;Olma Bratwurst;2;0.00;7.90
+27.05.2023;13:09:06;MM Solothurn;255;59;Speckwürfeli;1;0.00;3.20
+27.05.2023;13:09:06;MM Solothurn;255;59;Lamm Nierstück;0.170;2.71;5.85
+27.05.2023;13:09:06;MM Solothurn;255;59;Zweifel Vaya Bean;1;0.00;3.95
+27.05.2023;13:09:06;MM Solothurn;255;59;Feldschlösschen 6x50cl;1;0.00;11.50
+27.05.2023;13:09:06;MM Solothurn;255;59;Blévita Choco Ruby;1;0.00;4.80
+27.05.2023;13:09:06;MM Solothurn;255;59;Blévita Rice Mohn;1;0.00;4.20
+27.05.2023;13:09:06;MM Solothurn;255;59;Bio Fairtrade Bananen;0.831;0.80;1.65
+27.05.2023;13:09:06;MM Solothurn;255;59;Bratpfanne Titan ø16cm;1;0.00;20.95
+27.05.2023;13:09:06;MM Solothurn;255;59;Bonus-Coupon 2x;1;0;0
+27.05.2023;13:09:06;MM Solothurn;255;59;CUM +3xPkt.Ges.Sort.;1;0;0
+13.05.2023;13:23:57;MM Solothurn;257;142;Bio Heidelbeeren;0.360;0.00;7.20
+13.05.2023;13:23:57;MM Solothurn;257;142;Fenchel;0.636;0.00;3.15
+13.05.2023;13:23:57;MM Solothurn;257;142;MBud Eisbergsalat;1;0.65;1.30
+13.05.2023;13:23:57;MM Solothurn;257;142;Granatapfel;1;0.50;1.00
+13.05.2023;13:23:57;MM Solothurn;257;142;Fairtrade Bananen Mini;1;1.05;2.15
+13.05.2023;13:23:57;MM Solothurn;257;142;Butterzopf;1;0.00;2.90
+13.05.2023;13:23:57;MM Solothurn;257;142;Salami Rustico;1;1.60;3.30
+13.05.2023;13:23:57;MM Solothurn;257;142;Kalbsplätzli;0.145;3.95;7.95
+13.05.2023;13:23:57;MM Solothurn;257;142;Sélec Rindsfilet;0.171;6.45;13.05
+13.05.2023;13:23:57;MM Solothurn;257;142;Rauchlachs Anschnitte;1;1.65;3.30
+13.05.2023;13:23:57;MM Solothurn;257;142;Bio Bratspeck;0.110;0.00;3.75
+13.05.2023;13:23:57;MM Solothurn;257;142;MClass Kuchenteig;1;0.00;1.55
+13.05.2023;13:23:57;MM Solothurn;257;142;Reiswaffeln Schokolade;1;0.00;1.20
+13.05.2023;13:23:57;MM Solothurn;257;142;Emilio Pomo. secchi;1;0.00;3.50
+13.05.2023;13:23:57;MM Solothurn;257;142;Bio Alpenkräutertee In;1;0.78;3.12
+13.05.2023;13:23:57;MM Solothurn;257;142;Bio Zitronenthymiantee;1;0.51;2.04
+13.05.2023;13:23:57;MM Solothurn;257;142;Bio Rindshackfleisch;0.330;1.98;6.60
+13.05.2023;13:23:57;MM Solothurn;257;142;MClass Baldo Risotto;1;0.00;2.95
+13.05.2023;13:23:57;MM Solothurn;257;142;JuraSel Tafelsalz Jod;1;0.00;0.90
+13.05.2023;13:23:57;MM Solothurn;257;142;MBud Spearmint 154g;2;0.00;5.80
+13.05.2023;13:23:57;MM Solothurn;257;142;Blévita mini Paprika;1;0.00;2.95
+13.05.2023;13:23:57;MM Solothurn;257;142;Demeter Eier;1;2.25;4.55
+13.05.2023;13:23:57;MM Solothurn;257;142;KP Bad Glueckli Auszei;1;0.00;5.95
+13.05.2023;13:23:57;MM Solothurn;257;142;Bonus-Coupon 2x;1;0;0
+13.05.2023;13:23:57;MM Solothurn;257;142;CUM10x Pkt Speck;1;0;0
+06.05.2023;13:50:24;M Solothurn Baselstrasse;254;100;Condy Knoblauchgurken;1;0.00;3.20
+06.05.2023;13:50:24;M Solothurn Baselstrasse;254;100;Ricotta Galbani;1;0.00;3.50
+06.05.2023;13:08:58;MM Solothurn;256;66;Bio Spargeln grün;1;3.75;7.95
+06.05.2023;13:08:58;MM Solothurn;256;66;Bio Heidelbeeren;0.455;0.00;9.10
+06.05.2023;13:08:58;MM Solothurn;256;66;Mango essreif;1;0.00;1.50
+06.05.2023;13:08:58;MM Solothurn;256;66;Pfirsich gelbfleischig;0.654;0.00;4.25
+06.05.2023;13:08:58;MM Solothurn;256;66;Rhabarber;0.354;0.00;3.10
+06.05.2023;13:08:58;MM Solothurn;256;66;Eichblattsalat rot;1;0.00;2.20
+06.05.2023;13:08:58;MM Solothurn;256;66;Schweden-Torte;1;0.00;6.50
+06.05.2023;13:08:58;MM Solothurn;256;66;Butterzopf;1;0.00;2.90
+06.05.2023;13:08:58;MM Solothurn;256;66;MClass Roggenvollkorn;1;0.00;1.80
+06.05.2023;13:08:58;MM Solothurn;256;66;MClass Kuchenteig;1;0.00;1.55
+06.05.2023;13:08:58;MM Solothurn;256;66;Bio Joghurt Vanille;2;0.00;1.90
+06.05.2023;13:08:58;MM Solothurn;256;66;MBud Magerquark 500g;1;0.00;1.25
+06.05.2023;13:08:58;MM Solothurn;256;66;Excellence Kirsche;2;0.42;1.68
+06.05.2023;13:08:58;MM Solothurn;256;66;Excellence Vanille;2;0.42;1.68
+06.05.2023;13:08:58;MM Solothurn;256;66;Excellence Classic;2;0.42;1.68
+06.05.2023;13:08:58;MM Solothurn;256;66;Vanillezucker 4x10g;1;0.00;3.95
+06.05.2023;13:08:58;MM Solothurn;256;66;MBud Mandeln;1;0.00;3.00
+06.05.2023;13:08:58;MM Solothurn;256;66;Reiswaffeln Schokolade;1;0.00;1.20
+06.05.2023;13:08:58;MM Solothurn;256;66;Wasa Sesam;1;0.00;2.30
+06.05.2023;13:08:58;MM Solothurn;256;66;MClass Thunfischfilet;0.152;3.15;6.35
+06.05.2023;13:08:58;MM Solothurn;256;66;Schwarzwälder Schinken;0.112;0.00;5.70
+06.05.2023;13:08:58;MM Solothurn;256;66;Blévita Gruyère;2;2.38;5.52
+06.05.2023;13:08:58;MM Solothurn;256;66;Blévita Choco Ruby;1;1.44;3.36
+06.05.2023;13:08:58;MM Solothurn;256;66;Blévita mini Paprika;2;1.78;4.12
+06.05.2023;13:08:58;MM Solothurn;256;66;G'nuine Zero 70cl;1;0.00;24.90
+06.05.2023;13:08:58;MM Solothurn;256;66;Fever Tree Mediterrane;1;0.00;7.80
+06.05.2023;13:08:58;MM Solothurn;256;66;Feldschlösschen 6x50cl;1;0.00;11.50
+06.05.2023;13:08:58;MM Solothurn;256;66;Blévita Kürbiskerne;1;1.19;2.76
+06.05.2023;13:08:58;MM Solothurn;256;66;Coaties Cappuccino;1;0.00;3.95
+06.05.2023;13:08:58;MM Solothurn;256;66;Frey Crémant 55%;1;0.00;1.95
+06.05.2023;13:08:58;MM Solothurn;256;66;Zweifel Vaya Bean;1;0.00;3.95
+06.05.2023;13:08:58;MM Solothurn;256;66;Party Pistazien;1;0.00;8.40
+06.05.2023;13:08:58;MM Solothurn;256;66;Äpfel Boskoop;0.757;0.85;1.80
+06.05.2023;13:08:58;MM Solothurn;256;66;Papayas;1;0.85;1.75
+06.05.2023;13:08:58;MM Solothurn;256;66;Energizer CR2025 2 Stk;1;0.00;8.95
+06.05.2023;13:08:58;MM Solothurn;256;66;HM Regeneriersalz;1;0.00;1.00
+06.05.2023;13:08:58;MM Solothurn;256;66;Bonus-Coupon 2x;1;0;0
+06.05.2023;13:08:58;MM Solothurn;256;66;CUM +3xPkt.Ges.Sort.;1;0;0
+06.05.2023;13:08:58;MM Solothurn;256;66;CUM10x Pkt Zweifel;1;0;0
+29.04.2023;13:02:45;MM Solothurn;251;109;Bio Heidelbeeren;0.335;0.00;6.70
+29.04.2023;13:02:45;MM Solothurn;251;109;Rhabarber;0.363;0.00;3.25
+29.04.2023;13:02:45;MM Solothurn;251;109;Mango essreif;1;0.00;1.50
+29.04.2023;13:02:45;MM Solothurn;251;109;Extra Blondorangen;1.068;0.00;2.35
+29.04.2023;13:02:45;MM Solothurn;251;109;Broccoli;0.432;0.00;1.60
+29.04.2023;13:02:45;MM Solothurn;251;109;Blumenkohl;1.102;0.00;3.25
+29.04.2023;13:02:45;MM Solothurn;251;109;Bio Avocados essreif;1;0.45;1.65
+29.04.2023;13:02:45;MM Solothurn;251;109;Bio Spargeln grün;1;0.00;7.80
+29.04.2023;13:02:45;MM Solothurn;251;109;Eichblattsalat rot;1;0.00;2.20
+29.04.2023;13:02:45;MM Solothurn;251;109;Bio Joghurt Vanille;4;0.00;3.80
+29.04.2023;13:02:45;MM Solothurn;251;109;Bio Joghurt Kirschen;2;0.00;1.80
+29.04.2023;13:02:45;MM Solothurn;251;109;Excellence Vanille;2;0.00;2.10
+29.04.2023;13:02:45;MM Solothurn;251;109;Joghurt Johannisbeere;1;0.00;0.80
+29.04.2023;13:02:45;MM Solothurn;251;109;Berg Vorzugsbutter;1;0.00;3.15
+29.04.2023;13:02:45;MM Solothurn;251;109;MClass Kuchenteig;1;0.00;1.55
+29.04.2023;13:02:45;MM Solothurn;251;109;Reiswaffeln Schokolade;1;0.00;1.20
+29.04.2023;13:02:45;MM Solothurn;251;109;Olma Bratwurst;1;3.90;7.95
+29.04.2023;13:02:45;MM Solothurn;251;109;Schwarzwälder Schinken;0.119;0.00;5.90
+29.04.2023;13:02:45;MM Solothurn;251;109;MClass Kaninchen;0.369;1.95;3.95
+29.04.2023;13:02:45;MM Solothurn;251;109;Pouletschnitzel 2 Stk.;0.363;2.00;10.35
+29.04.2023;13:02:45;MM Solothurn;251;109;Martini Vibrante 75cl;1;0.00;12.95
+29.04.2023;13:02:45;MM Solothurn;251;109;Blévita Gruyère;1;0.00;3.95
+29.04.2023;13:02:45;MM Solothurn;251;109;Blévita Flammkuchen;1;0.00;3.95
+29.04.2023;13:02:45;MM Solothurn;251;109;MBud Spearmint 154g;2;0.00;5.80
+29.04.2023;13:02:45;MM Solothurn;251;109;Coaties Cappuccino;1;0.00;3.95
+29.04.2023;13:02:45;MM Solothurn;251;109;Fairtrade Bananen Mini;1;1.05;2.15
+29.04.2023;13:02:45;MM Solothurn;251;109;ASC Krevetten Tail-on;1;0.00;15.95
+22.04.2023;13:23:23;MM Solothurn;256;56;Bio Heidelbeeren;0.298;0.00;5.95
+22.04.2023;13:23:23;MM Solothurn;256;56;Mango essreif;1;0.00;1.50
+22.04.2023;13:23:23;MM Solothurn;256;56;Äpfel Boskoop;1.157;0.00;4.05
+22.04.2023;13:23:23;MM Solothurn;256;56;Broccoli;0.424;0.00;1.40
+22.04.2023;13:23:23;MM Solothurn;256;56;Bio Spargeln grün;1;2.75;8.95
+22.04.2023;13:23:23;MM Solothurn;256;56;Sélec Tomaten Merinda;0.097;0.21;0.85
+22.04.2023;13:23:23;MM Solothurn;256;56;Eichblattsalat rot;1;0.00;2.20
+22.04.2023;13:23:23;MM Solothurn;256;56;Butterzopf;1;0.00;2.90
+22.04.2023;13:23:23;MM Solothurn;256;56;MClass Roggenvollkorn;1;0.00;1.80
+22.04.2023;13:23:23;MM Solothurn;256;56;Schwarzenburgerli;1;0.00;5.90
+22.04.2023;13:23:23;MM Solothurn;256;56;Frühlingskäse;0.194;0.87;4.95
+22.04.2023;13:23:23;MM Solothurn;256;56;Elsa Waldbeere Joghurt;2;0.00;1.90
+22.04.2023;13:23:23;MM Solothurn;256;56;Excellence Vanille;2;0.00;2.10
+22.04.2023;13:23:23;MM Solothurn;256;56;Emilio Grana Padano;0.264;1.06;5.55
+22.04.2023;13:23:23;MM Solothurn;256;56;Valflora Vollrahm;1;0.00;4.40
+22.04.2023;13:23:23;MM Solothurn;256;56;Eier CH Respeggt;1;0.00;3.90
+22.04.2023;13:23:23;MM Solothurn;256;56;MClass Puderzucker;1;0.00;1.60
+22.04.2023;13:23:23;MM Solothurn;256;56;Maisstärke 300g;1;0.00;2.20
+22.04.2023;13:23:23;MM Solothurn;256;56;Reiswaffeln Schokolade;1;0.00;1.20
+22.04.2023;13:23:23;MM Solothurn;256;56;MBud Rohschinken;1;0.00;4.40
+22.04.2023;13:23:23;MM Solothurn;256;56;Salami Extrafino;1;0.00;3.95
+22.04.2023;13:23:23;MM Solothurn;256;56;Salami Sticks Rind;1;0.00;4.50
+22.04.2023;13:23:23;MM Solothurn;256;56;Bio Twister rustico;1;0.00;3.20
+22.04.2023;13:23:23;MM Solothurn;256;56;MBud Frischkäse;1;0.00;1.00
+22.04.2023;13:23:23;MM Solothurn;256;56;Blévita mini Paprika;1;0.00;2.95
+22.04.2023;13:23:23;MM Solothurn;256;56;Sirup Pink Grapefruit;1;0.00;3.70
+22.04.2023;13:23:23;MM Solothurn;256;56;MClass Oliven Peperoni;1;0.00;2.60
+22.04.2023;13:23:23;MM Solothurn;256;56;Fever Tree Raspberry;1;0.00;7.80
+22.04.2023;13:23:23;MM Solothurn;256;56;Fairtrade Bananen Mini;1;1.05;2.15
+22.04.2023;13:23:23;MM Solothurn;256;56;Zweifel Vaya Bean;1;0.00;3.95
+22.04.2023;13:23:23;MM Solothurn;256;56;Bonus-Coupon 2x;1;0;0
+15.04.2023;13:31:39;MM Solothurn;257;108;Bio Heidelbeeren;0.268;0.00;5.35
+15.04.2023;13:31:39;MM Solothurn;257;108;Mango essreif;1;0.00;1.70
+15.04.2023;13:31:39;MM Solothurn;257;108;Butterzopf;1;0.00;2.90
+15.04.2023;13:31:39;MM Solothurn;257;108;MClass Roggenvollkorn;1;0.00;1.80
+15.04.2023;13:31:39;MM Solothurn;257;108;Sennemutschli;0.166;0.75;3.90
+15.04.2023;13:31:39;MM Solothurn;257;108;MBud Cottage Cheese;1;0.00;4.10
+15.04.2023;13:31:39;MM Solothurn;257;108;Excellence Vanille;2;0.00;2.10
+15.04.2023;13:31:39;MM Solothurn;257;108;MBud Magerquark 500g;1;0.00;1.25
+15.04.2023;13:31:39;MM Solothurn;257;108;Bio Joghurt Vanille;4;0.00;3.80
+15.04.2023;13:31:39;MM Solothurn;257;108;Sbrinz Bröckli;1;0.00;3.50
+15.04.2023;13:31:39;MM Solothurn;257;108;Joghurt Johannisbeere;2;0.00;1.60
+15.04.2023;13:31:39;MM Solothurn;257;108;Berg Vorzugsbutter;1;0.00;3.15
+15.04.2023;13:31:39;MM Solothurn;257;108;Vanillezucker 4x10g;1;0.00;3.95
+15.04.2023;13:31:39;MM Solothurn;257;108;Reiswaffeln Schokolade;1;0.00;1.20
+15.04.2023;13:31:39;MM Solothurn;257;108;MBud Espresso Bohnen;1;0.00;6.00
+15.04.2023;13:31:39;MM Solothurn;257;108;Olma Bratwurst;1;0.00;3.95
+15.04.2023;13:31:39;MM Solothurn;257;108;Bio Senf grobkörnig;1;0.00;2.30
+15.04.2023;13:31:39;MM Solothurn;257;108;Thomy Senf scharf;1;0.00;1.95
+15.04.2023;13:31:39;MM Solothurn;257;108;Pouletschnitzel 2 Stk.;0.353;1.94;10.05
+15.04.2023;13:31:39;MM Solothurn;257;108;Bio Steinpilze getrock;1;0.00;4.95
+15.04.2023;13:31:39;MM Solothurn;257;108;Bio Hafercookies;1;0.00;2.60
+15.04.2023;13:31:39;MM Solothurn;257;108;Sambal Oelek;1;0.00;1.80
+15.04.2023;13:31:39;MM Solothurn;257;108;Coaties Cappuccino;1;0.00;3.95
+15.04.2023;13:31:39;MM Solothurn;257;108;Gillette Blue II Plus;1;2.65;9.95
+15.04.2023;13:31:39;MM Solothurn;257;108;MBud ASC Lachsfilets;1;0.00;5.95
+15.04.2023;13:31:39;MM Solothurn;257;108;KLEENEX BALSAM P48 33%;1;4.75;9.45
+15.04.2023;13:31:39;MM Solothurn;257;108;Bonus-Coupon 2x;1;0;0
+08.04.2023;13:15:33;MM Solothurn;257;156;Bio Heidelbeeren;0.269;0.00;5.65
+08.04.2023;13:15:33;MM Solothurn;257;156;Mango essreif;1;0.00;1.70
+08.04.2023;13:15:33;MM Solothurn;257;156;Rotkabis;0.425;0.00;0.85
+08.04.2023;13:15:33;MM Solothurn;257;156;Blumenkohl;0.712;0.00;2.10
+08.04.2023;13:15:33;MM Solothurn;257;156;Schweden-Torte;1;0.00;6.50
+08.04.2023;13:15:33;MM Solothurn;257;156;Butterzopf;1;0.00;2.90
+08.04.2023;13:15:33;MM Solothurn;257;156;Sbrinz Bröckli;1;0.00;3.50
+08.04.2023;13:15:33;MM Solothurn;257;156;Le Gruyère 120g;1;0.00;2.70
+08.04.2023;13:15:33;MM Solothurn;257;156;Excellence Classic;2;0.00;2.10
+08.04.2023;13:15:33;MM Solothurn;257;156;Elsa Waldbeere Joghurt;2;0.00;1.90
+08.04.2023;13:15:33;MM Solothurn;257;156;Bio Emmentaler;0.251;1.26;4.65
+08.04.2023;13:15:33;MM Solothurn;257;156;Eier CH Respeggt;1;0.00;3.90
+08.04.2023;13:15:33;MM Solothurn;257;156;Alpro Mandeldrink;1;0.00;3.95
+08.04.2023;13:15:33;MM Solothurn;257;156;Eier Regenbogen 6x50g;1;0.00;3.50
+08.04.2023;13:15:33;MM Solothurn;257;156;Reiswaffeln Schokolade;1;0.00;1.20
+08.04.2023;13:15:33;MM Solothurn;257;156;MClass Kuchenteig;2;0.00;3.10
+08.04.2023;13:15:33;MM Solothurn;257;156;MClass mit 10% Butter;1;0.00;5.70
+08.04.2023;13:15:33;MM Solothurn;257;156;MClass Thunfischfilet;0.190;5.10;6.75
+08.04.2023;13:15:33;MM Solothurn;257;156;Rauchlachs Anschnitte;1;1.65;3.30
+08.04.2023;13:15:33;MM Solothurn;257;156;Fever Tree Tonic Water;1;0.00;7.80
+08.04.2023;13:15:33;MM Solothurn;257;156;Fever Tree Mediterrane;1;0.00;7.80
+08.04.2023;13:15:33;MM Solothurn;257;156;MBud Spearmint 154g;1;0.00;2.90
+08.04.2023;13:15:33;MM Solothurn;257;156;Selec Mandeln Salt/Car;1;0.00;4.95
+08.04.2023;13:15:33;MM Solothurn;257;156;Acti Magnesium Zitrone;1;0.00;5.95
+08.04.2023;13:15:33;MM Solothurn;257;156;MSC Jakobsnüsse roh;1;0.00;13.95
+08.04.2023;13:15:33;MM Solothurn;257;156;CUM +5xPkt.Ges.Sort.;1;0;0
+08.04.2023;13:15:33;MM Solothurn;257;156;CUM40% Torten;1;0;-2.60
+01.04.2023;13:19:15;MM Solothurn;256;53;Mango essreif;1;0.00;1.70
+01.04.2023;13:19:15;MM Solothurn;256;53;Extra Blondorangen;1.455;0.00;3.20
+01.04.2023;13:19:15;MM Solothurn;256;53;Äpfel Boskoop;0.729;0.00;2.55
+01.04.2023;13:19:15;MM Solothurn;256;53;Fenchel;0.431;0.00;1.10
+01.04.2023;13:19:15;MM Solothurn;256;53;Broccoli;0.394;0.00;1.30
+01.04.2023;13:19:15;MM Solothurn;256;53;Butterzopf;1;0.00;3.90
+01.04.2023;13:19:15;MM Solothurn;256;53;Tomme la Fleur;1;0.00;5.50
+01.04.2023;13:19:15;MM Solothurn;256;53;Bio Joghurt Vanille;4;0.00;3.80
+01.04.2023;13:19:15;MM Solothurn;256;53;Excellence Vanille;2;0.00;2.10
+01.04.2023;13:19:15;MM Solothurn;256;53;Excellence Kirsche;2;0.00;2.10
+01.04.2023;13:19:15;MM Solothurn;256;53;Joghurt Johannisbeere;1;0.00;0.80
+01.04.2023;13:19:15;MM Solothurn;256;53;Berg Vorzugsbutter;1;0.00;3.15
+01.04.2023;13:19:15;MM Solothurn;256;53;Eier CH Respeggt;1;0.00;3.90
+01.04.2023;13:19:15;MM Solothurn;256;53;MClass Kuchenteig;1;0.00;1.55
+01.04.2023;13:19:15;MM Solothurn;256;53;Reiswaffeln Schokolade;1;0.00;1.20
+01.04.2023;13:19:15;MM Solothurn;256;53;Sélec Entrecôte;0.188;3.76;14.85
+01.04.2023;13:19:15;MM Solothurn;256;53;AdR Cervelas;1;0.40;2.20
+01.04.2023;13:19:15;MM Solothurn;256;53;Bratspeck;0.146;0.00;3.65
+01.04.2023;13:19:15;MM Solothurn;256;53;Sélec Aceto Balsamico;1;3.79;15.16
+01.04.2023;13:19:15;MM Solothurn;256;53;AdR Meringues Schalen;1;0.00;3.85
+01.04.2023;13:19:15;MM Solothurn;256;53;Blévita Choco Ruby;1;0.00;4.80
+01.04.2023;13:19:15;MM Solothurn;256;53;Blévita Flammkuchen;1;0.00;3.95
+01.04.2023;13:19:15;MM Solothurn;256;53;Coaties Cappuccino;1;0.00;3.95
+01.04.2023;13:19:15;MM Solothurn;256;53;Rhabarber;0.494;1.35;2.80
+01.04.2023;13:19:15;MM Solothurn;256;53;Fairtrade Bananen Mini;1;1.05;2.15
+01.04.2023;13:19:15;MM Solothurn;256;53;Frischhaltefolie N°10;1;0.00;3.95
+01.04.2023;13:19:15;MM Solothurn;256;53;HM Regeneriersalz;1;0.00;1.00
+01.04.2023;13:19:15;MM Solothurn;256;53;CUM +3xPkt.Ges.Sort.;1;0;0
+01.04.2023;13:19:15;MM Solothurn;256;53;CUM40% Excellence;1;0;-1.68
+01.04.2023;13:19:15;MM Solothurn;256;53;CUM40% Teige;1;0;-0.62
+01.04.2023;13:19:15;MM Solothurn;256;53;CUM40% Blévita;1;0;-3.50
+25.03.2023;13:45:03;MM Solothurn;257;142;Kartoffeln Raclette;1;0.00;1.60
+25.03.2023;13:45:03;MM Solothurn;257;142;Äpfel Boskoop;1.086;0.00;3.80
+25.03.2023;13:45:03;MM Solothurn;257;142;Zwiebeln;1;0.00;1.75
+25.03.2023;13:45:03;MM Solothurn;257;142;MBud Cottage Cheese;2;0.00;8.20
+25.03.2023;13:45:03;MM Solothurn;257;142;Bio Joghurt Vanille;4;0.00;3.80
+25.03.2023;13:45:03;MM Solothurn;257;142;Excellence Classic;2;0.00;2.10
+25.03.2023;13:45:03;MM Solothurn;257;142;Excellence Vanille;2;0.00;2.10
+25.03.2023;13:45:03;MM Solothurn;257;142;Raccard Surchoix;1;0.00;10.70
+25.03.2023;13:45:03;MM Solothurn;257;142;Le Gruyère 120g;1;0.00;2.70
+25.03.2023;13:45:03;MM Solothurn;257;142;Berg Vorzugsbutter;1;0.00;3.15
+25.03.2023;13:45:03;MM Solothurn;257;142;Eier CH Respeggt;1;0.00;3.90
+25.03.2023;13:45:03;MM Solothurn;257;142;Vanillezucker 4x10g;1;0.00;3.95
+25.03.2023;13:45:03;MM Solothurn;257;142;MClass Kuchenteig;2;0.00;3.10
+25.03.2023;13:45:03;MM Solothurn;257;142;Reiswaffeln Schokolade;1;0.00;1.20
+25.03.2023;13:45:03;MM Solothurn;257;142;MClass Reiswaffeln;1;0.00;0.90
+25.03.2023;13:45:03;MM Solothurn;257;142;MBud Espresso Bohnen;1;0.00;6.00
+25.03.2023;13:45:03;MM Solothurn;257;142;Rindsfilet;0.219;4.26;16.95
+25.03.2023;13:45:03;MM Solothurn;257;142;Blévita mini Paprika;3;1.80;7.05
+25.03.2023;13:45:03;MM Solothurn;257;142;Blévita Gruyère;3;1.80;10.05
+25.03.2023;13:45:03;MM Solothurn;257;142;Blévita Choco Ruby;1;0.60;4.20
+25.03.2023;13:45:03;MM Solothurn;257;142;Blévita Flammkuchen;1;0.60;3.35
+25.03.2023;13:45:03;MM Solothurn;257;142;Tee-/ Kaffeesieb 7cm;3;0.00;11.85
+25.03.2023;13:45:03;MM Solothurn;257;142;CUM +2xPkt.Ges.Sort.;1;0;0
+18.03.2023;14:22:45;MM Solothurn;257;151;Mango essreif;1;0.40;1.30
+18.03.2023;14:22:45;MM Solothurn;257;151;Feigen getrocknet;1;0.00;4.95
+18.03.2023;14:22:45;MM Solothurn;257;151;Extra Blondorangen;1.205;0.00;2.65
+18.03.2023;14:22:45;MM Solothurn;257;151;Fairtrade Limetten;1;0.00;0.55
+18.03.2023;14:22:45;MM Solothurn;257;151;Blumenkohl;0.875;0.70;2.10
+18.03.2023;14:22:45;MM Solothurn;257;151;Bananen;0.240;0.00;0.60
+18.03.2023;14:22:45;MM Solothurn;257;151;Äpfel Boskoop;1.157;0.00;4.05
+18.03.2023;14:22:45;MM Solothurn;257;151;Rotkabis;1.000;0.00;2.00
+18.03.2023;14:22:45;MM Solothurn;257;151;Karotten;1;0.00;1.60
+18.03.2023;14:22:45;MM Solothurn;257;151;Gurke;1;0.00;1.70
+18.03.2023;14:22:45;MM Solothurn;257;151;Champignons braun;1;0.00;2.35
+18.03.2023;14:22:45;MM Solothurn;257;151;Butterzopf;1;0.00;2.90
+18.03.2023;14:22:45;MM Solothurn;257;151;Schoenr. Mutschli;0.222;0.00;6.00
+18.03.2023;14:22:45;MM Solothurn;257;151;MClass Kuchenteig;1;0.00;1.55
+18.03.2023;14:22:45;MM Solothurn;257;151;MClass Roggenvollkorn;1;0.00;1.80
+18.03.2023;14:22:45;MM Solothurn;257;151;Saint Agur;1;0.00;3.80
+18.03.2023;14:22:45;MM Solothurn;257;151;M-Drink UHT Brik 12x1l;1;0.00;15.80
+18.03.2023;14:22:45;MM Solothurn;257;151;Sbrinz Bröckli;1;0.00;3.50
+18.03.2023;14:22:45;MM Solothurn;257;151;Excellence Vanille;2;0.00;2.10
+18.03.2023;14:22:45;MM Solothurn;257;151;Excellence Kirsche;2;0.00;2.10
+18.03.2023;14:22:45;MM Solothurn;257;151;Elsa Waldbeere Joghurt;2;0.00;1.90
+18.03.2023;14:22:45;MM Solothurn;257;151;MBud Magerquark 500g;1;0.00;1.25
+18.03.2023;14:22:45;MM Solothurn;257;151;Philadelphia Nature;2;0.00;5.60
+18.03.2023;14:22:45;MM Solothurn;257;151;Kochbutter;1;0.00;3.50
+18.03.2023;14:22:45;MM Solothurn;257;151;Valflora saurer Halbr.;2;0.00;3.20
+18.03.2023;14:22:45;MM Solothurn;257;151;Eier CH Respeggt;1;0.00;3.90
+18.03.2023;14:22:45;MM Solothurn;257;151;Bio Ahornsirup;1;0.00;6.50
+18.03.2023;14:22:45;MM Solothurn;257;151;BIO FT Cashewnüss;2;1.00;6.20
+18.03.2023;14:22:45;MM Solothurn;257;151;Reiswaffeln Schokolade;1;0.00;1.20
+18.03.2023;14:22:45;MM Solothurn;257;151;Speckwürfeli;1;0.00;3.20
+18.03.2023;14:22:45;MM Solothurn;257;151;Kalbsplätzli;0.201;0.00;16.70
+18.03.2023;14:22:45;MM Solothurn;257;151;MBud Bratspeck;0.184;0.00;3.30
+18.03.2023;14:22:45;MM Solothurn;257;151;Trad.IPS Hörnli UrDinK;1;0.65;2.55
+18.03.2023;14:22:45;MM Solothurn;257;151;Feldschlösschen 6x50cl;1;0.00;11.50
+18.03.2023;14:22:45;MM Solothurn;257;151;Sambal Oelek;1;0.00;1.80
+18.03.2023;14:22:45;MM Solothurn;257;151;Sirup Erdbeere 75cl;1;0.00;3.70
+18.03.2023;14:22:45;MM Solothurn;257;151;Party Pistazien;1;0.00;8.40
+18.03.2023;14:22:45;MM Solothurn;257;151;Zucchetti;0.246;0.00;0.70
+18.03.2023;14:22:45;MM Solothurn;257;151;MBud Spearmint 154g;1;0.00;2.90
+18.03.2023;14:22:45;MM Solothurn;257;151;CUMULUS BON 5.-;0;0;-5.00
+18.03.2023;14:22:45;MM Solothurn;257;151;CUMULUS BON 5.-;0;0;-5.00
+18.03.2023;14:22:45;MM Solothurn;257;151;CUMULUS BON 5.-;0;0;-5.00
+18.03.2023;14:22:45;MM Solothurn;257;151;CUMULUS BON 5.-;0;0;-5.00
+18.03.2023;14:22:45;MM Solothurn;257;151;CUMULUS BON 5.-;0;0;-5.00
+18.03.2023;14:22:45;MM Solothurn;257;151;CUMULUS BON 5.-;0;0;-5.00
+18.03.2023;14:22:45;MM Solothurn;257;151;CUMULUS BON 5.-;0;0;-5.00
+18.03.2023;14:22:45;MM Solothurn;257;151;CUMULUS BON 5.-;0;0;-5.00
+18.03.2023;14:22:45;MM Solothurn;257;151;CUMULUS BON 5.-;0;0;-5.00
+18.03.2023;14:22:45;MM Solothurn;257;151;CUMULUS BON 5.-;0;0;-5.00
+18.03.2023;14:22:45;MM Solothurn;257;151;CUM +2xPkt.Ges.Sort.;1;0;0
+18.03.2023;14:22:45;MM Solothurn;257;151;CUM40% Mangos, Papayas;1;0;-0.52
+11.03.2023;13:14:03;MM Solothurn;257;123;Mango essreif;1;0.00;1.70
+11.03.2023;13:14:03;MM Solothurn;257;123;Bio Kiwi;1;0.00;3.45
+11.03.2023;13:14:03;MM Solothurn;257;123;Bananen;0.560;0.00;1.40
+11.03.2023;13:14:03;MM Solothurn;257;123;Extra Blondorangen;0.932;0.00;2.05
+11.03.2023;13:14:03;MM Solothurn;257;123;Kart.mehligkochend;1;0.00;1.60
+11.03.2023;13:14:03;MM Solothurn;257;123;Fenchel;0.686;0.00;1.75
+11.03.2023;13:14:03;MM Solothurn;257;123;Broccoli;0.409;0.00;1.35
+11.03.2023;13:14:03;MM Solothurn;257;123;Knoblauch;1;0.00;0.50
+11.03.2023;13:14:03;MM Solothurn;257;123;Triosalat;1;0.00;2.20
+11.03.2023;13:14:03;MM Solothurn;257;123;Butterzopf;1;0.00;2.90
+11.03.2023;13:14:03;MM Solothurn;257;123;MClass Kuchenteig;1;0.00;1.55
+11.03.2023;13:14:03;MM Solothurn;257;123;Schmelzkäse Gruyère;1;0.00;2.95
+11.03.2023;13:14:03;MM Solothurn;257;123;Le Gruyère 120g;1;0.00;2.80
+11.03.2023;13:14:03;MM Solothurn;257;123;Bio Joghurt Vanille;4;0.00;3.80
+11.03.2023;13:14:03;MM Solothurn;257;123;MClas Léger Schafkäse;1;0.00;3.30
+11.03.2023;13:14:03;MM Solothurn;257;123;Excellence Classic;2;0.00;2.10
+11.03.2023;13:14:03;MM Solothurn;257;123;Excellence Vanille;2;0.00;2.10
+11.03.2023;13:14:03;MM Solothurn;257;123;Berg Vorzugsbutter;1;0.00;3.15
+11.03.2023;13:14:03;MM Solothurn;257;123;Züger Mascarpone;1;0.00;3.50
+11.03.2023;13:14:03;MM Solothurn;257;123;Eier CH Respeggt;1;0.00;3.50
+11.03.2023;13:14:03;MM Solothurn;257;123;MClass IPS Weissmehl;1;0.00;2.10
+11.03.2023;13:14:03;MM Solothurn;257;123;MClass Kokosraspel;1;0.00;1.20
+11.03.2023;13:14:03;MM Solothurn;257;123;Reiswaffeln Schokolade;1;0.00;1.20
+11.03.2023;13:14:03;MM Solothurn;257;123;Schwarzwälder Schinken;0.140;0.00;6.95
+11.03.2023;13:14:03;MM Solothurn;257;123;Poulet Minifilet;0.260;1.43;8.05
+11.03.2023;13:14:03;MM Solothurn;257;123;Blévita mini Paprika;1;0.00;2.95
+11.03.2023;13:14:03;MM Solothurn;257;123;Blévita Gruyère;2;0.00;7.90
+11.03.2023;13:14:03;MM Solothurn;257;123;MBud Spearmint 154g;2;0.00;5.80
+11.03.2023;13:14:03;MM Solothurn;257;123;Coaties Cappuccino;1;0.00;3.95
+11.03.2023;13:14:03;MM Solothurn;257;123;Crémant 55% 3x100g;1;0.00;5.55
+11.03.2023;13:14:03;MM Solothurn;257;123;Zweifel Vaya Bean;1;0.00;3.95
+11.03.2023;13:14:03;MM Solothurn;257;123;Ragusa Classique 125g;1;0.00;4.95
+11.03.2023;13:14:03;MM Solothurn;257;123;Bonus-Coupon 2x;1;0;0
+11.03.2023;13:14:03;MM Solothurn;257;123;CUM +3xPkt.Ges.Sort.;1;0;0
+04.03.2023;15:15:30;MM Solothurn;256;98;Bio Kiwi Gold;1;0.00;3.60
+04.03.2023;15:15:30;MM Solothurn;256;98;Mango essreif;1;0.00;1.70
+04.03.2023;15:15:30;MM Solothurn;256;98;Extra Blondorangen;0.977;0.00;2.15
+04.03.2023;15:15:30;MM Solothurn;256;98;Äpfel Boskoop;1.686;0.00;5.90
+04.03.2023;15:15:30;MM Solothurn;256;98;Broccoli;0.455;0.00;1.50
+04.03.2023;15:15:30;MM Solothurn;256;98;Bio Blumenkohl;1;0.00;3.20
+04.03.2023;15:15:30;MM Solothurn;256;98;Butterzopf;1;0.00;2.90
+04.03.2023;15:15:30;MM Solothurn;256;98;Schoenr. Mutschli;0.206;0.00;5.55
+04.03.2023;15:15:30;MM Solothurn;256;98;Schwarzenburgerli;1;0.00;5.90
+04.03.2023;15:15:30;MM Solothurn;256;98;Le Gruyère Surchoix;0.150;0.00;3.45
+04.03.2023;15:15:30;MM Solothurn;256;98;Emilio Grana Padano;0.283;1.13;5.80
+04.03.2023;15:15:30;MM Solothurn;256;98;MBud Cottage Cheese;1;0.00;4.10
+04.03.2023;15:15:30;MM Solothurn;256;98;Bio Joghurt Vanille;4;0.00;3.80
+04.03.2023;15:15:30;MM Solothurn;256;98;Excellence Vanille;2;0.00;2.10
+04.03.2023;15:15:30;MM Solothurn;256;98;Bio Joghurt Kirschen;2;0.00;1.80
+04.03.2023;15:15:30;MM Solothurn;256;98;Excellence Classic;2;0.00;2.10
+04.03.2023;15:15:30;MM Solothurn;256;98;Elsa Waldbeere Joghurt;2;0.38;1.52
+04.03.2023;15:15:30;MM Solothurn;256;98;Berg Vorzugsbutter;1;0.00;3.15
+04.03.2023;15:15:30;MM Solothurn;256;98;Eier Freiland 6x53g+;1;0.00;3.50
+04.03.2023;15:15:30;MM Solothurn;256;98;MClass Kuchenteig;1;0.00;1.55
+04.03.2023;15:15:30;MM Solothurn;256;98;Farmer Birchermüesli;1;0.00;4.95
+04.03.2023;15:15:30;MM Solothurn;256;98;Pouletschnitzel 2 Stk.;0.414;2.28;11.80
+04.03.2023;15:15:30;MM Solothurn;256;98;Kalbs Piccata;0.145;2.46;9.55
+04.03.2023;15:15:30;MM Solothurn;256;98;MClass MSC Skrei;0.159;2.55;5.90
+04.03.2023;15:15:30;MM Solothurn;256;98;Blévita Flammkuchen;1;0.00;3.95
+04.03.2023;15:15:30;MM Solothurn;256;98;Blévita Kürbiskerne;1;0.00;3.95
+04.03.2023;15:15:30;MM Solothurn;256;98;Party Pistazien;1;0.00;8.40
+04.03.2023;15:15:30;MM Solothurn;256;98;Zweifel Vaya Bean;1;0.00;3.95
+04.03.2023;15:15:30;MM Solothurn;256;98;IPS Blattspinat 800g;1;0.00;3.80
+04.03.2023;15:15:30;MM Solothurn;256;98;Bio Crevetten Tail-on;1;5.95;8.85
+04.03.2023;15:15:30;MM Solothurn;256;98;CUM +3xPkt.Ges.Sort.;1;0;0
+04.03.2023;15:15:30;MM Solothurn;256;98;CUM10x Pkt Party Nüsse;1;0;0
+01.03.2023;10:38:58;M Passage Sihlquai;257;221;Blévita mini Paprika;1;0.00;2.95
+01.03.2023;10:38:58;M Passage Sihlquai;257;221;MClass Roggenvollkorn;1;0.00;1.80
+28.02.2023;16:21:50;M Passage Sihlquai;256;323;Bio Joghurt Vanille;2;0.00;1.90
+04.02.2023;14:04:32;MM Solothurn;254;58;Mango essreif;1;0.65;1.00
+04.02.2023;14:04:32;MM Solothurn;254;58;Aproz Classic 50cl;1;0.00;0.70
+04.02.2023;14:04:32;MM Solothurn;254;58;Rivella Rot 50cl;1;0.00;1.45
+04.02.2023;14:04:32;MM Solothurn;254;58;MClass Kuchenteig;1;0.00;1.70
+04.02.2023;14:04:32;MM Solothurn;254;58;Schmelzkäse Gruyère;1;0.00;2.70
+04.02.2023;14:04:32;MM Solothurn;254;58;Farmer Croc Schokolade;2;0.00;7.90
+04.02.2023;14:04:32;MM Solothurn;254;58;Blévita Gruyère;2;1.20;6.00
+04.02.2023;14:04:32;MM Solothurn;254;58;Blévita Mini Pep. Käse;1;0.60;2.35
+04.02.2023;14:04:32;MM Solothurn;254;58;Blévita mini Paprika;1;0.60;2.35
+04.02.2023;14:04:32;MM Solothurn;254;58;Ovo Petit Beurre 3x;1;0.00;9.40
+04.02.2023;14:04:32;MM Solothurn;254;58;Kalbsplätzli;0.159;0.00;13.20
+04.02.2023;14:04:32;MM Solothurn;254;58;Coaties Cappuccino;1;0.00;3.95
+04.02.2023;14:04:32;MM Solothurn;254;58;CUM10x Pkt Blévita;1;0;0
+04.02.2023;14:04:13;MM Solothurn;481;126;Austauschzylinder;1;0.00;12.95
+04.02.2023;14:04:13;MM Solothurn;481;126;Depot  ZYLINDER;1;0.00;10.00
+04.02.2023;14:04:13;MM Solothurn;481;126;Depot retour Zylinder;1;0.00;-10.00
+28.01.2023;13:08:12;MM Solothurn;257;116;Bio Kiwi Gold;1;0.00;3.60
+28.01.2023;13:08:12;MM Solothurn;257;116;Mango essreif;1;0.00;1.65
+28.01.2023;13:08:12;MM Solothurn;257;116;Passionsfrucht;1;0.00;1.00
+28.01.2023;13:08:12;MM Solothurn;257;116;Broccoli;0.456;0.00;1.30
+28.01.2023;13:08:12;MM Solothurn;257;116;IP Kart.mehligkochend;1;0.00;1.80
+28.01.2023;13:08:12;MM Solothurn;257;116;Karotten;1;0.00;1.50
+28.01.2023;13:08:12;MM Solothurn;257;116;Bio Saisonsalat Winter;1;0.00;2.80
+28.01.2023;13:08:12;MM Solothurn;257;116;Butterzopf;1;0.00;2.90
+28.01.2023;13:08:12;MM Solothurn;257;116;MClass Kuchenteig;1;0.00;1.70
+28.01.2023;13:08:12;MM Solothurn;257;116;Le Gruyère Surchoix;0.150;0.00;3.45
+28.01.2023;13:08:12;MM Solothurn;257;116;Raclette Sch. Muetis;1;0.00;7.00
+28.01.2023;13:08:12;MM Solothurn;257;116;Bio Joghurt Vanille;4;0.00;3.80
+28.01.2023;13:08:12;MM Solothurn;257;116;Elsa Waldbeere Joghurt;2;0.00;1.90
+28.01.2023;13:08:12;MM Solothurn;257;116;Berg Vorzugsbutter;1;0.00;3.05
+28.01.2023;13:08:12;MM Solothurn;257;116;Valflora Vollrahm;1;0.00;4.40
+28.01.2023;13:08:12;MM Solothurn;257;116;MBud Bratspeck;0.212;0.00;3.80
+28.01.2023;13:08:12;MM Solothurn;257;116;Rindsfilet;0.174;3.48;13.75
+28.01.2023;13:08:12;MM Solothurn;257;116;Pouletschnitzel 2 Stk.;0.377;2.07;10.75
+28.01.2023;13:08:12;MM Solothurn;257;116;Bio Forellenfilet;1;0.00;6.50
+28.01.2023;13:08:12;MM Solothurn;257;116;MBud Spearmint 154g;2;0.00;5.80
+28.01.2023;13:08:12;MM Solothurn;257;116;Elmex Repair&Prev Duo;1;3.20;12.60
+28.01.2023;13:08:12;MM Solothurn;257;116;Kneipp Badesalz;1;2.38;7.12
+28.01.2023;13:08:12;MM Solothurn;257;116;Bonus-Coupon 2x;1;0;0
+27.01.2023;17:55:11;MM Solothurn;253;71;Feldschlösschen 6x50cl;2;0.00;23.00
+27.01.2023;17:55:11;MM Solothurn;253;71;Feldschlösschen 6x50cl;-2;0.00;-23.00
+27.01.2023;17:55:11;MM Solothurn;253;71;Feldschlösschen 6x50cl;1;0.00;11.50
+27.01.2023;17:55:11;MM Solothurn;253;71;Zweifel Vaya Bean;1;0.00;3.95
+27.01.2023;17:55:11;MM Solothurn;253;71;Ravensburger Quartette;1;0.00;3.95
+21.01.2023;13:21:09;MM Solothurn;257;114;MClass Freiland Mix;1;0.00;2.95
+21.01.2023;13:21:09;MM Solothurn;257;114;Bio Zitrone;1;0.00;0.70
+21.01.2023;13:21:09;MM Solothurn;257;114;Mango;1;0.70;2.70
+21.01.2023;13:21:09;MM Solothurn;257;114;Bio Kiwi Gold;1;0.00;3.60
+21.01.2023;13:21:09;MM Solothurn;257;114;Extra Blondorangen;1.318;0.00;2.90
+21.01.2023;13:21:09;MM Solothurn;257;114;Äpfel Boskoop;1.429;0.00;5.00
+21.01.2023;13:21:09;MM Solothurn;257;114;Broccoli;0.333;0.00;0.95
+21.01.2023;13:21:09;MM Solothurn;257;114;Bio Bohnen;1;0.00;4.95
+21.01.2023;13:21:09;MM Solothurn;257;114;Bio Saisonsalat Winter;1;0.00;2.80
+21.01.2023;13:21:09;MM Solothurn;257;114;Zucchetti;0.412;0.00;1.05
+21.01.2023;13:21:09;MM Solothurn;257;114;Butterzopf;1;0.00;2.90
+21.01.2023;13:21:09;MM Solothurn;257;114;MClass Roggenvollkorn;1;0.00;1.80
+21.01.2023;13:21:09;MM Solothurn;257;114;Excellence Vanille;4;0.84;3.36
+21.01.2023;13:21:09;MM Solothurn;257;114;MClass Kuchenteig;2;0.00;3.40
+21.01.2023;13:21:09;MM Solothurn;257;114;Schweizer Huus Chäsli;1;0.00;3.90
+21.01.2023;13:21:09;MM Solothurn;257;114;MBud Magerquark 500g;1;0.00;1.30
+21.01.2023;13:21:09;MM Solothurn;257;114;Sbrinz gehobelt;1;0.00;4.80
+21.01.2023;13:21:09;MM Solothurn;257;114;Bio Joghurt Vanille;2;0.00;1.90
+21.01.2023;13:21:09;MM Solothurn;257;114;MClass YogQuark;1;0.00;1.75
+21.01.2023;13:21:09;MM Solothurn;257;114;MClass Joghurt Zitrone;2;0.00;1.20
+21.01.2023;13:21:09;MM Solothurn;257;114;Eier CH Respeggt;1;0.00;3.50
+21.01.2023;13:21:09;MM Solothurn;257;114;Farmer Croc Schokolade;4;0.00;15.80
+21.01.2023;13:21:09;MM Solothurn;257;114;MClass Pouletschnitzel;0.375;0.00;9.00
+21.01.2023;13:21:09;MM Solothurn;257;114;Zweifel Vaya Bean;1;0.00;3.95
+21.01.2023;13:21:09;MM Solothurn;257;114;Crémant 55% 3x100g;1;0.00;5.55
+21.01.2023;13:21:09;MM Solothurn;257;114;Coaties Cappuccino;1;0.00;3.95
+21.01.2023;13:21:09;MM Solothurn;257;114;Acti Magnesium Zitrone;1;0.00;5.95
+21.01.2023;13:21:09;MM Solothurn;257;114;Elmex Repair & Prevent;1;0.00;7.90
+21.01.2023;13:21:09;MM Solothurn;257;114;Meridol Zahnb. Sanft;1;0.00;4.20
+21.01.2023;13:21:09;MM Solothurn;257;114;Titan Bratpfanne 16cm;1;5.65;20.95
+21.01.2023;13:21:09;MM Solothurn;257;114;CUM +3xPkt.Ges.Sort.;1;0;0
+21.01.2023;13:21:09;MM Solothurn;257;114;CUM10x Pkt Joghurts;1;0;0
+14.01.2023;15:36:31;MM Solothurn;257;181;Bio Kiwi Gold;1;0.00;3.60
+14.01.2023;15:36:31;MM Solothurn;257;181;Extra Blondorangen;1.705;0.00;3.75
+14.01.2023;15:36:31;MM Solothurn;257;181;Broccoli;0.458;0.00;1.35
+14.01.2023;15:36:31;MM Solothurn;257;181;MClass Roggenvollkorn;1;0.00;1.80
+14.01.2023;15:36:31;MM Solothurn;257;181;Butterzopf;1;0.00;3.90
+14.01.2023;15:36:31;MM Solothurn;257;181;MBud Cottage Cheese;1;0.00;3.95
+14.01.2023;15:36:31;MM Solothurn;257;181;MClass Magerquark;1;0.00;0.90
+14.01.2023;15:36:31;MM Solothurn;257;181;MClas Léger Schafkäse;1;0.00;3.50
+14.01.2023;15:36:31;MM Solothurn;257;181;Le Gruyère 120g;1;0.00;2.80
+14.01.2023;15:36:31;MM Solothurn;257;181;Bio Joghurt Vanille;2;0.00;1.80
+14.01.2023;15:36:31;MM Solothurn;257;181;Excellence Vanille;1;0.00;1.05
+14.01.2023;15:36:31;MM Solothurn;257;181;Excellence Kirsche;2;0.00;2.10
+14.01.2023;15:36:31;MM Solothurn;257;181;MClass Jog. Heidelbeer;2;0.00;1.20
+14.01.2023;15:36:31;MM Solothurn;257;181;Valflora Crème Fraîche;1;0.00;2.80
+14.01.2023;15:36:31;MM Solothurn;257;181;Solothurner Eier 53g+;1;0.00;3.95
+14.01.2023;15:36:31;MM Solothurn;257;181;MClass Kuchenteig;2;0.00;3.40
+14.01.2023;15:36:31;MM Solothurn;257;181;MBud Espresso Bohnen;1;0.00;6.95
+14.01.2023;15:36:31;MM Solothurn;257;181;MClass mit 10% Butter;1;0.00;5.70
+14.01.2023;15:36:31;MM Solothurn;257;181;Pouletschnitzel 2 Stk.;0.375;2.06;10.70
+14.01.2023;15:36:31;MM Solothurn;257;181;MClass Hackfleisch;0.332;3.32;3.65
+14.01.2023;15:36:31;MM Solothurn;257;181;MClass ASC Forellenfi.;1;0.00;3.60
+14.01.2023;15:36:31;MM Solothurn;257;181;Blévita Gruyère;1;0.00;3.60
+14.01.2023;15:36:31;MM Solothurn;257;181;MClass Zwieback 260g;1;0.00;3.50
+14.01.2023;15:36:31;MM Solothurn;257;181;Party Pistazien;1;0.00;8.40
+14.01.2023;15:36:31;MM Solothurn;257;181;Coaties Cappuccino;1;0.00;3.95
+14.01.2023;15:36:31;MM Solothurn;257;181;Maybelline Mascara;1;0.00;15.90
+14.01.2023;15:36:31;MM Solothurn;257;181;Angus Burger 2x125g;1;0.00;9.95
+14.01.2023;15:36:31;MM Solothurn;257;181;MBud ASC Lachsfilets;1;0.00;4.80
+14.01.2023;15:36:31;MM Solothurn;257;181;MClass Ofen Frites;1;0.00;2.60
+14.01.2023;15:36:31;MM Solothurn;257;181;CUM +3xPkt.Ges.Sort.;1;0;0
+12.01.2023;18:23:15;M Passage Sihlquai;257;534;Valflora Vollrahm UHT;1;0.00;3.55
+12.01.2023;18:23:15;M Passage Sihlquai;257;534;TOB Dark 100g;2;0.00;5.60
+12.01.2023;18:23:15;M Passage Sihlquai;257;534;Eier Freiland 4x68g+;1;0.00;3.15
+07.01.2023;13:12:12;MM Solothurn;617;1;Bananen;0.304;0.00;0.70
+07.01.2023;13:12:12;MM Solothurn;617;1;Bio Kiwi Gold;1;0.00;3.60
+07.01.2023;13:12:12;MM Solothurn;617;1;Mango essreif;1;0.00;1.70
+07.01.2023;13:12:12;MM Solothurn;617;1;Bio Blondorangen;1;0.00;4.60
+07.01.2023;13:12:12;MM Solothurn;617;1;Äpfel Boskoop;1.500;1.65;3.75
+07.01.2023;13:12:12;MM Solothurn;617;1;Broccoli;0.480;0.34;1.20
+07.01.2023;13:12:12;MM Solothurn;617;1;Karotten;1;0.00;1.50
+07.01.2023;13:12:12;MM Solothurn;617;1;Bio Saisonsalat Winter;1;0.00;2.80
+07.01.2023;13:12:12;MM Solothurn;617;1;Zucchetti;0.245;0.00;0.65
+07.01.2023;13:12:12;MM Solothurn;617;1;Schweden-Torte;1;0.00;6.50
+07.01.2023;13:12:12;MM Solothurn;617;1;Butterzopf;1;0.00;2.90
+07.01.2023;13:12:12;MM Solothurn;617;1;Schoenr. Mutschli;0.161;0.00;4.35
+07.01.2023;13:12:12;MM Solothurn;617;1;Schmelzkäse Gruyère;1;0.00;2.70
+07.01.2023;13:12:12;MM Solothurn;617;1;Le Gruyère 120g;1;0.00;2.80
+07.01.2023;13:12:12;MM Solothurn;617;1;Bio Joghurt Vanille;4;0.00;3.60
+07.01.2023;13:12:12;MM Solothurn;617;1;Excellence Vanille;2;0.00;2.10
+07.01.2023;13:12:12;MM Solothurn;617;1;Joghurt Johannisbeere;2;0.00;1.60
+07.01.2023;13:12:12;MM Solothurn;617;1;Berg Vorzugsbutter;1;0.00;3.05
+07.01.2023;13:12:12;MM Solothurn;617;1;MClass Kuchenteig;1;0.00;1.70
+07.01.2023;13:12:12;MM Solothurn;617;1;Bio Speckwürfeli;1;0.00;4.10
+07.01.2023;13:12:12;MM Solothurn;617;1;Schwarzwälder Schinken;0.122;0.00;6.05
+07.01.2023;13:12:12;MM Solothurn;617;1;Blévita Gruyère;2;1.20;6.00
+07.01.2023;13:12:12;MM Solothurn;617;1;Blévita Mini Pep. Käse;1;0.60;2.30
+07.01.2023;13:12:12;MM Solothurn;617;1;Pouletschnitzel 2 Stk.;0.300;0.00;10.20
+07.01.2023;13:12:12;MM Solothurn;617;1;Blévita Flammkuchen;1;0.60;3.00
+07.01.2023;13:12:12;MM Solothurn;617;1;Blévita Kürbiskerne;1;0.60;3.10
+07.01.2023;13:12:12;MM Solothurn;617;1;Coaties Cappuccino;1;0.00;3.95
+07.01.2023;13:12:12;MM Solothurn;617;1;Zweifel Vaya Bean;1;0.00;3.95
+07.01.2023;13:12:12;MM Solothurn;617;1;Äpfel Boskoop;1.040;1.99;1.75
